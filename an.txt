@@ -1,0 +1,1584 @@
+[Common Private/Public Key]
+- private static final String EXPANDABLE_WIDGET_HELPER_KEY = "expandableWidgetHelper"
+path : /sources/com/google/android/material/floatingactionbutton/FloatingActionButton.java
+
+- private static final String KEY_DATA_ONLY_REMOTE_INPUTS = "dataOnlyRemoteInputs"
+path : /sources/androidx/core/app/NotificationCompatJellybean.java
+
+
+[IP_Address]
+- 0.0.0.0
+path : /sources/android/app/ActivityTracker.java
+
+- 0.0.0.0
+path : /sources/android/runtime/XmlReaderPullParser.java
+
+- 0.0.0.0
+path : /sources/android/runtime/XmlReaderResourceParser.java
+
+- 0.0.0.0
+path : /sources/androidx/appcompat/app/AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/androidx/appcompat/app/AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/androidx/appcompat/app/AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/androidx/appcompat/widget/Toolbar_NavigationOnClickEventDispatcher.java
+
+- 0.0.0.0
+path : /sources/com/google/android/material/snackbar/Snackbar_SnackbarActionClickImplementor.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/ActionSheetRenderer.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/ButtonRenderer.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/ButtonRenderer_ButtonClickListener.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/ButtonRenderer_ButtonTouchListener.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/CellAdapter.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/CheckBoxDesignerRenderer.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/CheckBoxRendererBase.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/ConditionalFocusLayout.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/EditorRendererBase_1.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/EntryCellView.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/EntryRendererBase_1.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/FormattedStringExtensions_LineHeightSpan.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/GenericGlobalLayoutListener.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/GenericMenuClickListener.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/GroupedListViewAdapter.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/ImageButtonRenderer.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/InnerGestureListener.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/MediaElementRenderer.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/OpenGLViewRenderer_Renderer.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/PickerManager_PickerListener.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/RadioButtonRenderer.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/SearchBarRenderer.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/SelectableViewHolder.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/ShellContentFragment.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/ShellSearchView.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/ShellSearchViewAdapter.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/ShellSectionRenderer.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/ShellToolbarTracker.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/SliderRenderer.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/StepperRendererManager_StepperListener.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/SwitchCellView.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/SwitchRenderer.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/TimePickerRendererBase_1.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/ViewRenderer_2.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/VisualElementTracker_AttachTracker.java
+
+- 0.0.0.0
+path : /sources/crc643f46942d9dd1fff9/WebViewRenderer_JavascriptResult.java
+
+- 0.0.0.0
+path : /sources/crc64692a67b1ffd85ce9/ActivityLifecycleCallbacks.java
+
+- 0.0.0.0
+path : /sources/crc64720bb2db43a66fe9/ButtonRenderer.java
+
+- 0.0.0.0
+path : /sources/crc64720bb2db43a66fe9/NavigationPageRenderer.java
+
+- 0.0.0.0
+path : /sources/crc64720bb2db43a66fe9/NavigationPageRenderer_ClickListener.java
+
+- 0.0.0.0
+path : /sources/crc64720bb2db43a66fe9/SwitchRenderer.java
+
+- 0.0.0.0
+path : /sources/crc647c4c06b10f3352ff/MaterialButtonRenderer.java
+
+- 0.0.0.0
+path : /sources/crc647c4c06b10f3352ff/MaterialSliderRenderer.java
+
+- 0.0.0.0
+path : /sources/crc64a0e0a82d0db9a07d/ActivityLifecycleContextListener.java
+
+- 0.0.0.0
+path : /sources/crc64ee486da937c010f4/ButtonRenderer.java
+
+- 0.0.0.0
+path : /sources/mono/android/TypeManager.java
+
+- 0.0.0.0
+path : /sources/mono/android/accessibilityservice/AccessibilityService_MagnificationController_OnMagnificationChangedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/accessibilityservice/AccessibilityService_SoftKeyboardController_OnShowModeChangedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/accounts/OnAccountsUpdateListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/animation/AnimatorEventDispatcher.java
+
+- 0.0.0.0
+path : /sources/mono/android/animation/Animator_AnimatorListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/animation/Animator_AnimatorPauseListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/animation/LayoutTransition_TransitionListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/animation/TimeAnimator_TimeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/animation/ValueAnimator_AnimatorUpdateListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/app/ActionBar_OnMenuVisibilityListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/app/ActionBar_OnNavigationListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/app/ActionBar_TabListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/app/AlarmManager_OnAlarmListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/app/AppOpsManager_OnOpChangedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/app/Application_OnProvideAssistDataListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/app/DatePickerDialog_OnDateSetListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/app/FragmentBreadCrumbs_OnBreadCrumbClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/app/FragmentManager_OnBackStackChangedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/app/SearchManager_OnCancelListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/app/SearchManager_OnDismissListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/app/SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/app/TabEventDispatcher.java
+
+- 0.0.0.0
+path : /sources/mono/android/app/TimePickerDialog_OnTimeSetListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/app/UiAutomation_OnAccessibilityEventListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/app/WallpaperManager_OnColorsChangedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/app/admin/DevicePolicyManager_OnClearApplicationUserDataListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/bluetooth/BluetoothProfile_ServiceListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/content/ClipboardManager_OnPrimaryClipChangedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/content/DialogInterface_OnCancelListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/content/DialogInterface_OnClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/content/DialogInterface_OnDismissListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/content/DialogInterface_OnKeyListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/content/DialogInterface_OnMultiChoiceClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/content/DialogInterface_OnShowListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/content/Loader_OnLoadCanceledListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/content/Loader_OnLoadCompleteListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/content/SharedPreferences_OnSharedPreferenceChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/database/sqlite/SQLiteTransactionListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/drm/DrmManagerClient_OnErrorListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/drm/DrmManagerClient_OnEventListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/drm/DrmManagerClient_OnInfoListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/gesture/GestureOverlayView_OnGestureListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/gesture/GestureOverlayView_OnGesturePerformedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/gesture/GestureOverlayView_OnGesturingListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/graphics/ImageDecoder_OnHeaderDecodedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/graphics/ImageDecoder_OnPartialImageListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/graphics/SurfaceTexture_OnFrameAvailableListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/graphics/drawable/Icon_OnDrawableLoadedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/hardware/Camera_FaceDetectionListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/hardware/Camera_OnZoomChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/hardware/SensorEventListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/hardware/SensorListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/hardware/display/DisplayManager_DisplayListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/hardware/input/InputManager_InputDeviceListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/inputmethodservice/KeyboardView_OnKeyboardActionListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/location/GpsStatus_ListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/location/GpsStatus_NmeaListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/location/LocationListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/location/OnNmeaMessageListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/AudioManager_OnAudioFocusChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/AudioRecord_OnRecordPositionUpdateListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/AudioRouting_OnRoutingChangedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/AudioTrack_OnPlaybackPositionUpdateListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/ImageReader_OnImageAvailableListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/ImageWriter_OnImageReleasedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/JetPlayer_OnJetEventListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaCas_EventListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaCodec_OnFrameRenderedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaDrm_OnEventListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaDrm_OnExpirationUpdateListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaDrm_OnKeyStatusChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaDrm_OnSessionLostStateListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaPlayer_OnBufferingUpdateListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaPlayer_OnCompletionListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaPlayer_OnDrmInfoListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaPlayer_OnDrmPreparedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaPlayer_OnErrorListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaPlayer_OnInfoListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaPlayer_OnMediaTimeDiscontinuityListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaPlayer_OnPreparedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaPlayer_OnSeekCompleteListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaPlayer_OnSubtitleDataListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaPlayer_OnTimedMetaDataAvailableListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaPlayer_OnTimedTextListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaPlayer_OnVideoSizeChangedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaRecorder_OnErrorListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaRecorder_OnInfoListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaScannerConnection_OnScanCompletedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/MediaSync_OnErrorListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/RemoteControlClient_OnGetPlaybackPositionListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/RemoteControlClient_OnMetadataUpdateListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/RemoteControlClient_OnPlaybackPositionUpdateListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/RemoteController_OnClientUpdateListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/SoundPool_OnLoadCompleteListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/audiofx/AudioEffect_OnControlStatusChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/audiofx/AudioEffect_OnEnableStatusChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/audiofx/BassBoost_OnParameterChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/audiofx/EnvironmentalReverb_OnParameterChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/audiofx/Equalizer_OnParameterChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/audiofx/PresetReverb_OnParameterChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/audiofx/Virtualizer_OnParameterChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/audiofx/Visualizer_OnDataCaptureListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/effect/EffectUpdateListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/midi/MidiManager_OnDeviceOpenedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/session/MediaSessionManager_OnActiveSessionsChangedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/session/MediaSessionManager_OnSession2TokensChangedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/media/tv/TvView_OnUnhandledInputEventListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/ConnectivityManager_OnNetworkActiveListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/nsd/NsdManager_DiscoveryListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/nsd/NsdManager_RegistrationListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/nsd/NsdManager_ResolveListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/sip/SipRegistrationListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/wifi/p2p/WifiP2pManager_ActionListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/wifi/p2p/WifiP2pManager_ChannelListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/wifi/p2p/WifiP2pManager_ConnectionInfoListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/wifi/p2p/WifiP2pManager_DeviceInfoListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/wifi/p2p/WifiP2pManager_DiscoveryStateListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/wifi/p2p/WifiP2pManager_DnsSdServiceResponseListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/wifi/p2p/WifiP2pManager_DnsSdTxtRecordListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/wifi/p2p/WifiP2pManager_GroupInfoListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/wifi/p2p/WifiP2pManager_NetworkInfoListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/wifi/p2p/WifiP2pManager_P2pStateListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/wifi/p2p/WifiP2pManager_PeerListListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/wifi/p2p/WifiP2pManager_ServiceResponseListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/net/wifi/p2p/WifiP2pManager_UpnpServiceResponseListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/nfc/NfcAdapter_OnTagRemovedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/os/ActionHandlerCallback.java
+
+- 0.0.0.0
+path : /sources/mono/android/os/CancellationSignal_OnCancelListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/os/FileUtils_ProgressListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/os/MessageQueue_OnFileDescriptorEventListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/os/ParcelFileDescriptor_OnCloseListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/os/PowerManager_OnThermalStatusChangedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/os/RecoverySystem_ProgressListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/os/StrictMode_OnThreadViolationListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/os/StrictMode_OnVmViolationListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/preference/PreferenceManager_OnActivityDestroyListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/preference/PreferenceManager_OnActivityResultListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/preference/PreferenceManager_OnActivityStopListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/preference/Preference_OnPreferenceChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/preference/Preference_OnPreferenceClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/renderscript/Allocation_OnBufferAvailableListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/sax/EndElementListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/sax/EndTextElementListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/sax/StartElementListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/se/omapi/SEService_OnConnectedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/speech/RecognitionListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/speech/tts/TextToSpeech_OnInitListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/speech/tts/TextToSpeech_OnUtteranceCompletedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/text/TextWatcherImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/transition/Transition_TransitionListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/ActionProvider_VisibilityListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/GestureDetector_OnContextClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/GestureDetector_OnDoubleTapListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/GestureDetector_OnGestureListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/MenuItem_OnActionExpandListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/MenuItem_OnMenuItemClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/PixelCopy_OnPixelCopyFinishedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/ScaleGestureDetector_OnScaleGestureListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/TextureView_SurfaceTextureListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/ViewGroup_OnHierarchyChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/ViewStub_OnInflateListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/ViewTreeObserver_OnDrawListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/ViewTreeObserver_OnGlobalFocusChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/ViewTreeObserver_OnGlobalLayoutListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/ViewTreeObserver_OnPreDrawListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/ViewTreeObserver_OnScrollChangedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/ViewTreeObserver_OnTouchModeChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/ViewTreeObserver_OnWindowAttachListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/ViewTreeObserver_OnWindowFocusChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/View_OnApplyWindowInsetsListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/View_OnAttachStateChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/View_OnCapturedPointerListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/View_OnClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/View_OnContextClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/View_OnCreateContextMenuListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/View_OnDragListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/View_OnFocusChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/View_OnGenericMotionListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/View_OnHoverListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/View_OnKeyListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/View_OnLayoutChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/View_OnLongClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/View_OnScrollChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/View_OnSystemUiVisibilityChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/View_OnTouchListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/View_OnUnhandledKeyEventListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/Window_OnFrameMetricsAvailableListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/Window_OnRestrictedCaptionAreaChangedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/accessibility/AccessibilityManager_AccessibilityStateChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/accessibility/AccessibilityManager_TouchExplorationStateChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/animation/Animation_AnimationListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/view/textservice/SpellCheckerSession_SpellCheckerSessionListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/webkit/DownloadListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/webkit/WebIconDatabase_IconListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/webkit/WebView_FindListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/webkit/WebView_PictureListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/AbsListView_OnScrollListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/AbsListView_RecyclerListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/ActionMenuView_OnMenuItemClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/AdapterView_OnItemClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/AdapterView_OnItemLongClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/AdapterView_OnItemSelectedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/AutoCompleteTextView_OnDismissListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/CalendarView_OnDateChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/Chronometer_OnChronometerTickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/CompoundButton_OnCheckedChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/DatePicker_OnDateChangedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/ExpandableListView_OnChildClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/ExpandableListView_OnGroupClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/ExpandableListView_OnGroupCollapseListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/ExpandableListView_OnGroupExpandListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/Filter_FilterListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/NumberPicker_OnScrollListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/NumberPicker_OnValueChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/PopupMenu_OnDismissListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/PopupMenu_OnMenuItemClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/PopupWindow_OnDismissListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/RadioGroup_OnCheckedChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/RatingBar_OnRatingBarChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/SearchView_OnCloseListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/SearchView_OnQueryTextListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/SearchView_OnSuggestionListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/SeekBar_OnSeekBarChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/SlidingDrawer_OnDrawerCloseListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/SlidingDrawer_OnDrawerOpenListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/SlidingDrawer_OnDrawerScrollListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/TabHost_OnTabChangeListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/TextView_OnEditorActionListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/TimePicker_OnTimeChangedListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/Toolbar_OnMenuItemClickListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/android/widget/ZoomButtonsController_OnZoomListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/java/lang/Runnable.java
+
+- 0.0.0.0
+path : /sources/mono/java/lang/RunnableImplementor.java
+
+- 0.0.0.0
+path : /sources/mono/javax/xml/transform/ErrorListenerImplementor.java
+
+- 0.0.0.0
+path : /sources/opentk_1_0/platform/android/AndroidGameView.java
+
+- 0.1.0.0
+path : /sources/com/xamarin/java_interop/internal/JavaProxyObject.java
+
+- 0.1.0.0
+path : /sources/com/xamarin/java_interop/internal/JavaProxyThrowable.java
+
+- 1.0.0.0
+path : /sources/mono/android/app/ApplicationRegistration.java
+
+
+[JSON_Web_Token]
+- 1.0.0-beta01
+path : /resources/META-INF/android.support.design_material.version
+
+- 1.0.0-rc01
+path : /resources/META-INF/com.google.android.material_material.version
+
+- version=17.0.0
+path : /resources/play-services-safetynet.properties
+
+- version=17.0.2
+path : /resources/play-services-tasks.properties
+
+- version=17.1.0
+path : /resources/play-services-base.properties
+
+- version=17.2.1
+path : /resources/play-services-basement.properties
+
+- version=18.0.3
+path : /resources/play-services-nearby.properties
+
+
+[LinkFinder]
+- /..."
+path : /sources/androidx/core/net/UriCompat.java
+- /cmdline"
+path : /sources/com/google/android/gms/common/util/ProcessUtils.java
+- /cocoa/a/.*"
+path : /resources/AndroidManifest.xml
+- /lib"
+path : /sources/mono/MonoPackageManager.java
+- /proc/"
+path : /sources/com/google/android/gms/common/util/ProcessUtils.java
+- /proc/self/fd/"
+path : /sources/androidx/core/graphics/TypefaceCompatApi21Impl.java
+- activity_choser_model_history.xml"
+path : /sources/androidx/appcompat/widget/ActivityChooserModel.java
+- content://com.google.android.gsf.gservices"
+path : /sources/com/google/android/gms/internal/nearby/zznk.java
+- content://com.google.android.gsf.gservices/prefix"
+path : /sources/com/google/android/gms/internal/nearby/zznk.java
+- http://materialdesignicons.com/"
+path : /resources/assets/license.html
+- http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd"
+path : /resources/META-INF/maven/com.google.guava/listenablefuture/pom.xml
+- http://maven.apache.org/POM/4.0.0"
+path : /resources/META-INF/maven/com.google.guava/listenablefuture/pom.xml
+- http://schemas.android.com/apk/res-auto"
+path : /sources/com/google/android/material/chip/ChipDrawable.java
+- http://schemas.android.com/apk/res/android"
+path : /resources/AndroidManifest.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_fade_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_fade_out.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_grow_fade_in_from_bottom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_popup_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_popup_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_shrink_fade_out_from_bottom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_slide_in_bottom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_slide_in_top.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_slide_out_bottom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_slide_out_top.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_tooltip_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_tooltip_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_checked_icon_null_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/design_bottom_sheet_slide_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/design_bottom_sheet_slide_out.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/design_snackbar_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/design_snackbar_out.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/enterfromleft.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/enterfromright.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/exittoleft.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/exittoright.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/design_appbar_state_list_animator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/design_fab_hide_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/design_fab_show_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_btn_state_list_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_chip_state_list_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_fab_hide_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_fab_show_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_fab_transformation_sheet_collapse_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_fab_transformation_sheet_expand_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_background_cache_hint_selector_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_background_cache_hint_selector_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_btn_colored_borderless_text_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_btn_colored_text_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_color_highlight_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_hint_foreground_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_hint_foreground_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_primary_text_disable_only_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_primary_text_disable_only_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_primary_text_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_primary_text_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_search_url_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_secondary_text_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_secondary_text_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_btn_checkable.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_default.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_edittext.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_seek_thumb.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_spinner.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_switch_track.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/common_google_signin_btn_text_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/common_google_signin_btn_text_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/common_google_signin_btn_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/design_error.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/design_tint_password_toggle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_bottom_nav_colored_item_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_bottom_nav_item_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_bg_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_stroke_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_text_btn_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_chip_background_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_chip_close_icon_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_chip_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_chip_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_fab_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_tabs_colored_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_tabs_icon_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_tabs_icon_color_selector_colored.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_tabs_legacy_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_tabs_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_text_btn_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/switch_thumb_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/switch_thumb_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/white_disabled_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi/design_ic_visibility.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi/design_ic_visibility_off.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-ja/splash_screen.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-v24/materialactivityindicatorbackground.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-watch/abc_dialog_material_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_hide_password__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_hide_password__1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_hide_password__2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_show_password__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_show_password__1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_show_password__2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_action_bar_item_background_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_borderless_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_check_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_check_material_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_colored_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_default_mtrl_shape.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_radio_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_radio_material_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_cab_background_internal_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_cab_background_top_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_control_background_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_dialog_material_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_edit_text_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_ab_back_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_clear_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_go_search_api_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_menu_overflow_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_search_api_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_voice_search_api_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_item_background_holo_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_item_background_holo_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_divider_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_selector_background_transition_holo_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_selector_background_transition_holo_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_selector_holo_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_selector_holo_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ratingbar_indicator_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ratingbar_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ratingbar_small_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_seekbar_thumb_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_seekbar_tick_mark_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_seekbar_track_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_spinner_textfield_background_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_switch_thumb_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_tab_indicator_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_text_cursor_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_textfield_search_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_vector_test.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/avd_hide_password.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/avd_show_password.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_checkbox_checked_mtrl.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_checkbox_unchecked_mtrl.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_radio_off_mtrl.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_radio_off_to_on_mtrl_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_radio_on_mtrl.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_radio_on_to_off_mtrl_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_dark_focused.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_dark_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_disabled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_light_focused.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_light_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_dark_focused.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_dark_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_disabled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_light_focused.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_light_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_bottom_navigation_item_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_fab_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_password_eye.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_snackbar_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_mtrl_chip_checked_black.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_mtrl_chip_checked_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_mtrl_chip_close_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_notification.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/materialactivityindicatorbackground.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/materialprogressbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_snackbar_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_tabs_default_indicator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/navigation_empty_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_action_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_bg_low.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_icon_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_tile_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/roundedbg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/roundedbgdark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/splash_screen.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tooltip_frame_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tooltip_frame_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/fast_out_slow_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/mtrl_fast_out_linear_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/mtrl_fast_out_slow_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/mtrl_linear_out_slow_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-sw600dp/design_layout_snackbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-sw600dp/mtrl_layout_snackbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v26/abc_screen_toolbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-watch/abc_alert_dialog_button_bar_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-watch/abc_alert_dialog_title_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_bar_title_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_bar_up_container.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_menu_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_menu_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_mode_bar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_mode_close_item_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_activity_chooser_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_activity_chooser_view_list_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_alert_dialog_button_bar_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_alert_dialog_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_alert_dialog_title_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_cascading_menu_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_dialog_title_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_expanded_menu_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_list_menu_item_checkbox.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_list_menu_item_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_list_menu_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_list_menu_item_radio.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_popup_menu_header_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_popup_menu_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_screen_content_include.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_screen_simple.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_screen_simple_overlay_action_mode.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_screen_toolbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_search_dropdown_item_icons_2line.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_search_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_select_dialog_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_tooltip.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/bottomtablayout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/browser_actions_context_menu_page.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/browser_actions_context_menu_row.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/custom_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_bottom_navigation_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_bottom_sheet_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_layout_snackbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_layout_snackbar_include.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_layout_tab_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_layout_tab_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_menu_item_action_area.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_item_header.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_item_separator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_item_subheader.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_menu.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_menu_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_text_input_password_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fallbacktabbardonotuse.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fallbacktoolbardonotuse.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/flyoutcontent.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/loading.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/loadingimage.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/loadingprogress.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/materialpickertextinput.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_layout_snackbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_layout_snackbar_include.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_action.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_action_tombstone.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_media_action.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_media_cancel_action.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_big_media.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_big_media_custom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_big_media_narrow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_big_media_narrow_custom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_custom_big.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_icon_group.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_lines_media.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_media.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_media_custom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_part_chronometer.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_part_time.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/rootlayout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/select_dialog_item_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/select_dialog_multichoice_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/select_dialog_singlechoice_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/shellcontent.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/support_simple_spinner_dropdown_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/tabbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/textinputlayoutfilledbox.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/toolbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /sources/androidx/core/content/res/TypedArrayUtils.java
+- http://schemas.android.com/apk/res/android"
+path : /sources/com/google/android/material/chip/Chip.java
+- http://scripts.sil.org/OFL"
+path : /resources/assets/license.html
+- http://www.apache.org/licenses/LICENSE-2.0"
+path : /resources/assets/license.html
+- https://mozilla.org/MPL/2.0/"
+path : /resources/assets/license.html
+- https://plus.google.com/"
+path : /sources/com/google/android/gms/common/internal/zzg.java
+- https://www.example.com"
+path : /sources/androidx/browser/browseractions/BrowserActionsIntent.java
+- https://www.googleapis.com/auth/appstate"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/datastoremobile"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/drive"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/drive.appdata"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/drive.apps"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/drive.file"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.activity.read"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.activity.write"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.blood_glucose.read"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.blood_glucose.write"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.blood_pressure.read"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.blood_pressure.write"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.body.read"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.body.write"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.body_temperature.read"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.body_temperature.write"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.location.read"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.location.write"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.nutrition.read"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.nutrition.write"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.oxygen_saturation.read"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.oxygen_saturation.write"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.reproductive_health.read"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/fitness.reproductive_health.write"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/games"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/games.firstparty"
+path : /sources/com/google/android/gms/common/FirstPartyScopes.java
+- https://www.googleapis.com/auth/games_lite"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/plus.login"
+path : /sources/com/google/android/gms/common/Scopes.java
+- https://www.googleapis.com/auth/plus.me"
+path : /sources/com/google/android/gms/common/Scopes.java
+- share_history.xml"
+path : /sources/androidx/appcompat/widget/ShareActionProvider.java
+

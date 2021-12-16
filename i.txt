@@ -1,0 +1,2548 @@
+[Common Private/Public Key]
+- public static final /* synthetic */ j[] W = {u.b(new m(u.a(k.class), "classifierNamePolicy", "getClassifierNamePolicy()Lorg/jetbrains/kotlin/renderer/ClassifierNamePolicy;")), u.b(new m(u.a(k.class), "withDefinedIn", "getWithDefinedIn()Z")), u.b(new m(u.a(k.class), "withSourceFileForTopLevel", "getWithSourceFileForTopLevel()Z")), u.b(new m(u.a(k.class), "modifiers", "getModifiers()Ljava/util/Set;")), u.b(new m(u.a(k.class), "startFromName", "getStartFromName()Z")), u.b(new m(u.a(k.class), "startFromDeclarationKeyword", "getStartFromDeclarationKeyword()Z")), u.b(new m(u.a(k.class), "debugMode", "getDebugMode()Z")), u.b(new m(u.a(k.class), "classWithPrimaryConstructor", "getClassWithPrimaryConstructor()Z")), u.b(new m(u.a(k.class), "verbose", "getVerbose()Z")), u.b(new m(u.a(k.class), "unitReturnType", "getUnitReturnType()Z")), u.b(new m(u.a(k.class), "withoutReturnType", "getWithoutReturnType()Z")), u.b(new m(u.a(k.class), "enhancedTypes", "getEnhancedTypes()Z")), u.b(new m(u.a(k.class), "normalizedVisibilities", "getNormalizedVisibilities()Z")), u.b(new m(u.a(k.class), "renderDefaultVisibility", "getRenderDefaultVisibility()Z")), u.b(new m(u.a(k.class), "renderDefaultModality", "getRenderDefaultModality()Z")), u.b(new m(u.a(k.class), "renderConstructorDelegation", "getRenderConstructorDelegation()Z")), u.b(new m(u.a(k.class), "renderPrimaryConstructorParametersAsProperties", "getRenderPrimaryConstructorParametersAsProperties()Z")), u.b(new m(u.a(k.class), "actualPropertiesInPrimaryConstructor", "getActualPropertiesInPrimaryConstructor()Z")), u.b(new m(u.a(k.class), "uninferredTypeParameterAsName", "getUninferredTypeParameterAsName()Z")), u.b(new m(u.a(k.class), "includePropertyConstant", "getIncludePropertyConstant()Z")), u.b(new m(u.a(k.class), "withoutTypeParameters", "getWithoutTypeParameters()Z")), u.b(new m(u.a(k.class), "withoutSuperTypes", "getWithoutSuperTypes()Z")), u.b(new m(u.a(k.class), "typeNormalizer", "getTypeNormalizer()Lkotlin/jvm/functions/Function1;")), u.b(new m(u.a(k.class), "defaultParameterValueRenderer", "getDefaultParameterValueRenderer()Lkotlin/jvm/functions/Function1;")), u.b(new m(u.a(k.class), "secondaryConstructorsAsPrimary", "getSecondaryConstructorsAsPrimary()Z")), u.b(new m(u.a(k.class), "overrideRenderingPolicy", "getOverrideRenderingPolicy()Lorg/jetbrains/kotlin/renderer/OverrideRenderingPolicy;")), u.b(new m(u.a(k.class), "valueParametersHandler", "getValueParametersHandler()Lorg/jetbrains/kotlin/renderer/DescriptorRenderer$ValueParametersHandler;")), u.b(new m(u.a(k.class), "textFormat", "getTextFormat()Lorg/jetbrains/kotlin/renderer/RenderingFormat;")), u.b(new m(u.a(k.class), "parameterNameRenderingPolicy", "getParameterNameRenderingPolicy()Lorg/jetbrains/kotlin/renderer/ParameterNameRenderingPolicy;")), u.b(new m(u.a(k.class), "receiverAfterName", "getReceiverAfterName()Z")), u.b(new m(u.a(k.class), "renderCompanionObjectName", "getRenderCompanionObjectName()Z")), u.b(new m(u.a(k.class), "propertyAccessorRenderingPolicy", "getPropertyAccessorRenderingPolicy()Lorg/jetbrains/kotlin/renderer/PropertyAccessorRenderingPolicy;")), u.b(new m(u.a(k.class), "renderDefaultAnnotationArguments", "getRenderDefaultAnnotationArguments()Z")), u.b(new m(u.a(k.class), "eachAnnotationOnNewLine", "getEachAnnotationOnNewLine()Z")), u.b(new m(u.a(k.class), "excludedAnnotationClasses", "getExcludedAnnotationClasses()Ljava/util/Set;")), u.b(new m(u.a(k.class), "excludedTypeAnnotationClasses", "getExcludedTypeAnnotationClasses()Ljava/util/Set;")), u.b(new m(u.a(k.class), "annotationFilter", "getAnnotationFilter()Lkotlin/jvm/functions/Function1;")), u.b(new m(u.a(k.class), "annotationArgumentsRenderingPolicy", "getAnnotationArgumentsRenderingPolicy()Lorg/jetbrains/kotlin/renderer/AnnotationArgumentsRenderingPolicy;")), u.b(new m(u.a(k.class), "alwaysRenderModifiers", "getAlwaysRenderModifiers()Z")), u.b(new m(u.a(k.class), "renderConstructorKeyword", "getRenderConstructorKeyword()Z")), u.b(new m(u.a(k.class), "renderUnabbreviatedType", "getRenderUnabbreviatedType()Z")), u.b(new m(u.a(k.class), "renderTypeExpansions", "getRenderTypeExpansions()Z")), u.b(new m(u.a(k.class), "includeAdditionalModifiers", "getIncludeAdditionalModifiers()Z")), u.b(new m(u.a(k.class), "parameterNamesInFunctionalTypes", "getParameterNamesInFunctionalTypes()Z")), u.b(new m(u.a(k.class), "renderFunctionContracts", "getRenderFunctionContracts()Z")), u.b(new m(u.a(k.class), "presentableUnresolvedTypes", "getPresentableUnresolvedTypes()Z")), u.b(new m(u.a(k.class), "boldOnlyForNamesInHtml", "getBoldOnlyForNamesInHtml()Z")), u.b(new m(u.a(k.class), "informativeErrorType"
+path : /sources/h/a/a/a/u0/i/k.java
+
+
+[Firebase]
+- -default-rtdb.firebaseio.com
+path : /sources/e/a/a/f/i.java
+
+- org-wehealth.firebaseio.com
+path : /resources/res/values/strings.xml
+
+
+[Google_API_Key]
+- AIzaSyCDRgryU23aIscgnYCZ7FP9bJZ2BMOdaf4
+path : /resources/res/values/strings.xml
+
+
+[Google_Cloud_Platform_OAuth]
+- 366268359285-icqijdj8vesgnd7u6130orj7crcfc7fu.apps.googleusercontent.com
+path : /resources/res/values/strings.xml
+
+
+[JSON_Web_Token]
+- version=16.0.0
+path : /resources/firebase-annotations.properties
+
+- version=16.0.0
+path : /resources/play-services-cloud-messaging.properties
+
+- version=16.0.1
+path : /resources/firebase-installations-interop.properties
+
+- version=16.1.0
+path : /resources/firebase-components.properties
+
+- version=16.1.0
+path : /resources/firebase-encoders.properties
+
+- version=16.3.5
+path : /resources/firebase-installations.properties
+
+- version=17.0.0
+path : /resources/firebase-iid-interop.properties
+
+- version=17.0.0
+path : /resources/play-services-ads-identifier.properties
+
+- version=17.0.0
+path : /resources/play-services-safetynet.properties
+
+- version=17.0.0
+path : /resources/play-services-stats.properties
+
+- version=17.0.1
+path : /resources/firebase-database-collection.properties
+
+- version=17.0.10
+path : /resources/firebase-datatransport.properties
+
+- version=17.1.0
+path : /resources/firebase-encoders-json.properties
+
+- version=17.2.1
+path : /resources/play-services-tasks.properties
+
+- version=17.6.0
+path : /resources/play-services-base.properties
+
+- version=17.6.0
+path : /resources/play-services-basement.properties
+
+- version=18.0.0
+path : /resources/firebase-auth-interop.properties
+
+- version=18.0.0
+path : /resources/firebase-measurement-connector.properties
+
+- version=18.0.2
+path : /resources/firebase-analytics-ktx.properties
+
+- version=18.0.2
+path : /resources/firebase-analytics.properties
+
+- version=18.0.2
+path : /resources/play-services-measurement-api.properties
+
+- version=18.0.2
+path : /resources/play-services-measurement-base.properties
+
+- version=18.0.2
+path : /resources/play-services-measurement-impl.properties
+
+- version=18.0.2
+path : /resources/play-services-measurement-sdk-api.properties
+
+- version=18.0.2
+path : /resources/play-services-measurement-sdk.properties
+
+- version=18.0.2
+path : /resources/play-services-measurement.properties
+
+- version=18.0.3
+path : /resources/play-services-nearby.properties
+
+- version=19.5.0
+path : /resources/firebase-common-ktx.properties
+
+- version=19.5.0
+path : /resources/firebase-common.properties
+
+- version=19.6.0
+path : /resources/firebase-database-ktx.properties
+
+- version=19.6.0
+path : /resources/firebase-database.properties
+
+- version=2.2.1
+path : /resources/transport-api.properties
+
+- version=2.2.5
+path : /resources/transport-runtime.properties
+
+- version=2.3.3
+path : /resources/transport-backend-cct.properties
+
+- version=21.0.1
+path : /resources/firebase-iid.properties
+
+- version=21.0.1
+path : /resources/firebase-messaging-ktx.properties
+
+- version=21.0.1
+path : /resources/firebase-messaging.properties
+
+
+[LinkFinder]
+- /..."
+path : /sources/o/y.java
+- /.info"
+path : /sources/m/b/c/l/t/w0/k.java
+- /.ws?ns="
+path : /sources/m/b/c/l/s/o.java
+- /2.1.11"
+path : /sources/e/a/a/f/m1.java
+- /Android"
+path : /sources/m/b/c/l/t/h.java
+- /api/certificate"
+path : /sources/e/a/a/d/o/b.java
+- /api/verify"
+path : /sources/e/a/a/d/o/c.java
+- /diag_keys/%s/keys_%s.pb"
+path : /sources/e/a/a/d/r/c.java
+- /index.html"
+path : /sources/o/l0/j/c.java
+- /topics/"
+path : /sources/m/b/c/v/r.java
+- /topics/"
+path : /sources/m/b/c/v/v.java
+- /topics/"
+path : /sources/m/b/c/v/y.java
+- /v1/publish"
+path : /sources/e/a/a/d/r/o.java
+- Africa/Addis_Ababa"
+path : /sources/j$/time/ZoneId.java
+- Africa/Cairo"
+path : /sources/j$/time/ZoneId.java
+- Africa/Harare"
+path : /sources/j$/time/ZoneId.java
+- Africa/Sao_Tome"
+path : /sources/j$/time/format/m.java
+- America/Anchorage"
+path : /sources/j$/time/ZoneId.java
+- America/Argentina/Buenos_Aires"
+path : /sources/j$/time/ZoneId.java
+- America/Chicago"
+path : /sources/j$/time/ZoneId.java
+- America/Indiana/Indianapolis"
+path : /sources/j$/time/ZoneId.java
+- America/Los_Angeles"
+path : /sources/j$/time/ZoneId.java
+- America/Phoenix"
+path : /sources/j$/time/ZoneId.java
+- America/Puerto_Rico"
+path : /sources/j$/time/ZoneId.java
+- America/Sao_Paulo"
+path : /sources/j$/time/ZoneId.java
+- America/St_Johns"
+path : /sources/j$/time/ZoneId.java
+- Asia/Dhaka"
+path : /sources/j$/time/ZoneId.java
+- Asia/Ho_Chi_Minh"
+path : /sources/j$/time/ZoneId.java
+- Asia/Karachi"
+path : /sources/j$/time/ZoneId.java
+- Asia/Kolkata"
+path : /sources/j$/time/ZoneId.java
+- Asia/Shanghai"
+path : /sources/j$/time/ZoneId.java
+- Asia/Tokyo"
+path : /sources/j$/time/ZoneId.java
+- Asia/Yerevan"
+path : /sources/j$/time/ZoneId.java
+- Australia/Darwin"
+path : /sources/j$/time/ZoneId.java
+- Australia/Sydney"
+path : /sources/j$/time/ZoneId.java
+- Brazil/Acre"
+path : /sources/j$/time/format/m.java
+- Europe/Paris"
+path : /sources/j$/time/ZoneId.java
+- M/d/yy"
+path : /sources/m/b/a/c/u/d.java
+- Pacific/Apia"
+path : /sources/j$/time/ZoneId.java
+- Pacific/Auckland"
+path : /sources/j$/time/ZoneId.java
+- Pacific/Guadalcanal"
+path : /sources/j$/time/ZoneId.java
+- Pacific/Rarotonga"
+path : /sources/j$/time/format/m.java
+- collections/Iterable"
+path : /sources/h/a/a/a/u0/e/a0/b/b.java
+- collections/Mutable"
+path : /sources/h/a/a/a/u0/e/a0/b/b.java
+- collections/MutableIterable"
+path : /sources/h/a/a/a/u0/e/a0/b/b.java
+- config/app/"
+path : /sources/m/b/a/b/h/b/d9.java
+- content://com.google.android.gms.phenotype/"
+path : /sources/m/b/a/b/g/f/h3.java
+- content://com.google.android.gsf.gservices"
+path : /sources/m/b/a/b/g/f/t2.java
+- content://com.google.android.gsf.gservices"
+path : /sources/m/b/a/b/g/g/n1.java
+- content://com.google.android.gsf.gservices/prefix"
+path : /sources/m/b/a/b/g/f/t2.java
+- content://com.google.android.gsf.gservices/prefix"
+path : /sources/m/b/a/b/g/g/n1.java
+- gov-azdhs-covidwatch-prod.json"
+path : /sources/e/a/a/g/b.java
+- http://bit.ly/39rg6fQ"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://bit.ly/39rg6fQ"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://bit.ly/3qnwuVl"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://bit.ly/3qnwuVl"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2LGZucj"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2LGZucj"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2LNQnX3"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2LNQnX3"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2MVDCdr"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2MVDCdr"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2Me62PI"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2Me62PI"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2MekeZ0"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2MekeZ0"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2MiL2rc"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2MiL2rc"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2MjGLUq"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2MjGLUq"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2NLghLP"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2NLghLP"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2NUEX4o"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2NUEX4o"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2Nm8Afn"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2Nm8Afn"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2NmQ6LP"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2NmQ6LP"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2Nnpdr7"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2Nnpdr7"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2Np4TFM"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2Np4TFM"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2Ntw3Lq"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2Ntw3Lq"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2NvLQcL"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2NvLQcL"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2NwFcmr"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2NwFcmr"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2NwbaPR"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2NwbaPR"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2O7Bwbn"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2O7Bwbn"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2OAP5Qv"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2OAP5Qv"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2OFWjlX"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2OFWjlX"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2OHqV6Y"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2OHqV6Y"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2OI3Elm"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2OI3Elm"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2OTGZCq"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2OTGZCq"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2OgI2fS"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2OgI2fS"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2Oim5wP"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2Oim5wP"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2OxXXWV"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2OxXXWV"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2P1KgQm"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2P1KgQm"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2POyNE9"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2POyNE9"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2PQUPGj"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2PQUPGj"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2ZCe7ki"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2ZCe7ki"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2ZCxry1"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2ZCxry1"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2ZDE1UH"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2ZDE1UH"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2ZEFlqx"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2ZEFlqx"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2ZFMiaS"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2ZFMiaS"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2ZGQBTu"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2ZGQBTu"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2ZGS3oM"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2ZGS3oM"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2ZGhWVK"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2ZGhWVK"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2ZIWHlW"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2ZIWHlW"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2ZTKGup"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2ZTKGup"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/2ZTlYu1"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/2ZTlYu1"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/30Lfgqh"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/30Lfgqh"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/30NpDtD"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/30NpDtD"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/30pEjzb"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/30pEjzb"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/30q48Pl"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/30q48Pl"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/30rAklt"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/30rAklt"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/30s0ftl"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/30s0ftl"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/30tbWQI"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/30tbWQI"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/30vN3DI"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/30vN3DI"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/30xBMmj"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/30xBMmj"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/317KXKM"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/317KXKM"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/37A8nvO"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/37A8nvO"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/37BwhHa"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/37BwhHa"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/37COeW1"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/37COeW1"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/37CT0D1"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/37CT0D1"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/37DCmTy"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/37DCmTy"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/37EqTmS"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/37EqTmS"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/37FEUAN"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/37FEUAN"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/38kC0lh"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/38kC0lh"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/38kLAEL"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/38kLAEL"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/38lOXen"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/38lOXen"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/38oSoRO"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/38oSoRO"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/38pNwf2"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/38pNwf2"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3aGOnd0"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3aGOnd0"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3aHPuZO"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3aHPuZO"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3aHdmN5"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3aHdmN5"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3aHwRFh"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3aHwRFh"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3aID7Na"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3aID7Na"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3aIeSyA"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3aIeSyA"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3aJOkgE"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3aJOkgE"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3aK60sl"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3aK60sl"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3aKAbQ6"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3aKAbQ6"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3aKho7K"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3aKho7K"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3aKsppC"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3aKsppC"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3aLcpDq"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3aLcpDq"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3aLhY4M"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3aLhY4M"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3aOeezT"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3aOeezT"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3aOf9QR"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3aOf9QR"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3bBWdF6"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3bBWdF6"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3bBuxza"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3bBuxza"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3bDwYmm"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3bDwYmm"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3bFhIW5"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3bFhIW5"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3bOrN2z"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3bOrN2z"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3bR1LvQ"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3bR1LvQ"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3bqnxoy"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3bqnxoy"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3bsFMJX"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3bsFMJX"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3bt4ry4"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3bt4ry4"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3btRyUD"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3btRyUD"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3btmVQj"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3btmVQj"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3btp0KM"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3btp0KM"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3bu6DWa"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3bu6DWa"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3bvBHET"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3bvBHET"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3bvOsAL"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3bvOsAL"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3bxGbMk"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3bxGbMk"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3bz6cKc"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3bz6cKc"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3bzsbkl"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3bzsbkl"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3cOlHib"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3cOlHib"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3cPO6nE"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3cPO6nE"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3cc3Pxc"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3cc3Pxc"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3cc9t2m"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3cc9t2m"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3cfFYN7"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3cfFYN7"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3ch8w91"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3ch8w91"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3ciIfHd"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3ciIfHd"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3cl85KM"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3cl85KM"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3dAjKaP"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3dAjKaP"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3dC75Eh"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3dC75Eh"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3dDHUl0"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3dDHUl0"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3dDIZcr"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3dDIZcr"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3dGHeev"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3dGHeev"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3dJj0Ax"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3dJj0Ax"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3dL14Fk"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3dL14Fk"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3dyXPAZ"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3dyXPAZ"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3dzYBgX"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3dzYBgX"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3dzZM00"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3dzZM00"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3dzia9n"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3dzia9n"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3ejFMiw"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3ejFMiw"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3elgi4o"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3elgi4o"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3epNvvl"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3epNvvl"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3esXIY3"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3esXIY3"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3kTSHJp"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3kTSHJp"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3kY6I8E"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3kY6I8E"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3kZFLSd"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3kZFLSd"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3kZThVW"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3kZThVW"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3kaBPh6"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3kaBPh6"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3kayw9I"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3kayw9I"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3kbG5wR"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3kbG5wR"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3kbHrYm"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3kbHrYm"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3kbJSu5"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3kbJSu5"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3kbQHMf"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3kbQHMf"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3kdeefH"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3kdeefH"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3kdjhfY"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3kdjhfY"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3kdxzgM"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3kdxzgM"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3keMLu1"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3keMLu1"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3klgGks"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3klgGks"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3kmJoRX"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3kmJoRX"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3koYEhj"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3koYEhj"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3l11OI9"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3l11OI9"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3l14DJf"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3l14DJf"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3l1bPoX"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3l1bPoX"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3l2d0Eh"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3l2d0Eh"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3lk5Hbd"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3lk5Hbd"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3nPJUb2"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3nPJUb2"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3o16uxr"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3o16uxr"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3oQztVY"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3oQztVY"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3osbZ8P"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3osbZ8P"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3pD7QQ0"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3pD7QQ0"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3pE6NPK"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3pE6NPK"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3pEeaXq"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3pEeaXq"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3pF7Let"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3pF7Let"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3pFMpxz"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3pFMpxz"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3pH8N9T"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3pH8N9T"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3pIIKiJ"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3pIIKiJ"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3pJVple"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3pJVple"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3pKfx70"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3pKfx70"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3pKhsZ2"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3pKhsZ2"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3pKsFcr"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3pKsFcr"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3pL6F15"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3pL6F15"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3pNZy7U"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3pNZy7U"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3pOadzj"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3pOadzj"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3pQip2o"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3pQip2o"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qBzux3"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qBzux3"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qD1hxu"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qD1hxu"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qKGtVz"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qKGtVz"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qKJswZ"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qKJswZ"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qKQZMw"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qKQZMw"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qLabd4"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qLabd4"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qLcjS2"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qLcjS2"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qM8qfx"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qM8qfx"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qMbXdZ"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qMbXdZ"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qMjNUG"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qMjNUG"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qNgMDH"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qNgMDH"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qOlsJI"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qOlsJI"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qOuhTQ"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qOuhTQ"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qQR41m"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qQR41m"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qR7Aya"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qR7Aya"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qi9zuf"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qi9zuf"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qiUNns"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qiUNns"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qoU0RV"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qoU0RV"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qqOaiE"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qqOaiE"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qvJ5pn"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qvJ5pn"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3qxYaqe"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3qxYaqe"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3rBbYls"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3rBbYls"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3rJVxDv"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3rJVxDv"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3rwwGCZ"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3rwwGCZ"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3rz0BKu"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3rz0BKu"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3rzu2fw"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3rzu2fw"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3saAIAO"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3saAIAO"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3sawYiK"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3sawYiK"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3sfKemc"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3sfKemc"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3sgiXjy"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3sgiXjy"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3shMpWj"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3shMpWj"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3shnmmf"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3shnmmf"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3silklR"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3silklR"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3sizzaf"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3sizzaf"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3sjQCZy"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3sjQCZy"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3sjgAMK"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3sjgAMK"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3sjkUM0"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3sjkUM0"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3sjtrP0"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3sjtrP0"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3sk7S0M"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3sk7S0M"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3slZD4f"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3slZD4f"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3snFvyZ"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3snFvyZ"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3so90kd"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3so90kd"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3sr8cf8"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3sr8cf8"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3st63yC"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3st63yC"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3svNeLZ"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3svNeLZ"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3t7kau6"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3t7kau6"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3t9FWxf"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3t9FWxf"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3taO14R"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3taO14R"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3thfMbG"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3thfMbG"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3tqhgBx"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3tqhgBx"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3uh5oSG"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3uh5oSG"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3ul3tMZ"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3ul3tMZ"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3ulEiK9"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3ulEiK9"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3uq4zac"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3uq4zac"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3urdMzk"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3urdMzk"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3uwjrnN"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3uwjrnN"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3uxxBox"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3uxxBox"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3uyhVl0"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3uyhVl0"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3v7RmmQ"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3v7RmmQ"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3v9D84S"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3v9D84S"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3v9uUd6"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3v9uUd6"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3vFceCo"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3vFceCo"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3vb9Mmz"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3vb9Mmz"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3vczJm6"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3vczJm6"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://c.wehealth.org/3vjZD7s"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- http://c.wehealth.org/3vjZD7s"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- http://schemas.android.com/apk/res-auto"
+path : /resources/res/font/montserrat.xml
+- http://schemas.android.com/apk/res-auto"
+path : /resources/res/font/montserrat_bold.xml
+- http://schemas.android.com/apk/res-auto"
+path : /resources/res/font/roboto.xml
+- http://schemas.android.com/apk/res-auto"
+path : /resources/res/font/roboto_bold.xml
+- http://schemas.android.com/apk/res-auto"
+path : /sources/com/google/android/material/chip/Chip.java
+- http://schemas.android.com/apk/res/android"
+path : /resources/AndroidManifest.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_grow_fade_in_from_bottom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_popup_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_popup_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_shrink_fade_out_from_bottom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_tooltip_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_tooltip_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_checked_icon_null_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/design_bottom_sheet_slide_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/design_bottom_sheet_slide_out.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/fade_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/fade_out.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/fade_through_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/fragment_fast_out_extra_slow_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/mtrl_bottom_sheet_slide_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/mtrl_bottom_sheet_slide_out.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/mtrl_card_lowers_interpolator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/design_appbar_state_list_animator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/design_fab_hide_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/design_fab_show_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/fragment_close_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/fragment_close_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/fragment_fade_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/fragment_fade_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/fragment_open_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/fragment_open_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/linear_indeterminate_line1_head_interpolator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/linear_indeterminate_line1_tail_interpolator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/linear_indeterminate_line2_head_interpolator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/linear_indeterminate_line2_tail_interpolator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_btn_state_list_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_card_state_list_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_chip_state_list_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_extended_fab_state_list_animator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_fab_hide_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_fab_show_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_fab_transformation_sheet_collapse_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_fab_transformation_sheet_expand_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/rotation_collapse_to_expand.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/rotation_expand_to_collapse.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color-night/material_timepicker_button_stroke.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color-night/material_timepicker_clockface.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color-night/material_timepicker_modebutton_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_background_cache_hint_selector_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_background_cache_hint_selector_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_btn_colored_borderless_text_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_btn_colored_text_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_color_highlight_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_hint_foreground_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_hint_foreground_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_primary_text_disable_only_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_primary_text_disable_only_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_primary_text_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_primary_text_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_search_url_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_secondary_text_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_secondary_text_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_btn_checkable.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_default.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_edittext.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_seek_thumb.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_spinner.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_switch_track.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/checkbox_themeable_attribute_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/common_google_signin_btn_text_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/common_google_signin_btn_text_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/common_google_signin_btn_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/design_box_stroke_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/design_error.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/design_icon_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_surface_disabled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_surface_emphasis_high_type.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_surface_emphasis_medium.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_active_tick_marks_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_active_track_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_halo_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_inactive_tick_marks_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_inactive_track_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_thumb_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_timepicker_button_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_timepicker_button_stroke.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_timepicker_clock_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_timepicker_clockface.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_timepicker_modebutton_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_bottom_nav_item_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_bottom_nav_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_bg_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_stroke_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_text_btn_bg_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_text_btn_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_calendar_item_stroke_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_calendar_selected_range.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_card_view_foreground.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_card_view_ripple.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_chip_background_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_chip_close_icon_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_chip_surface_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_chip_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_choice_chip_background_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_choice_chip_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_choice_chip_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_error.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_fab_bg_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_fab_icon_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_fab_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_filled_background_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_filled_icon_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_filled_stroke_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_indicator_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_navigation_item_background_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_navigation_item_icon_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_navigation_item_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_on_primary_text_btn_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_on_surface_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_outlined_icon_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_outlined_stroke_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_popupmenu_overlay_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_tabs_icon_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_tabs_legacy_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_tabs_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_text_btn_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/radiobutton_themeable_attribute_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/switch_thumb_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/switch_thumb_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/test_mtrl_calendar_day.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/test_mtrl_calendar_day_selected.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$enable_en_art__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$enable_en_art__1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$enable_en_art__2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$home_art__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$home_art__1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$home_art__2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$how_it_works_1__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$how_it_works_2__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$how_it_works_3__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$how_it_works_4__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$how_it_works_art__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$how_it_works_art__1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$how_it_works_art__2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$ic_party__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_holding_globe_art__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_holding_globe_art__1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_holding_globe_art__2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_holding_globe_art__3.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_network_art__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_network_art__1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_network_art__10.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_network_art__11.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_network_art__12.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_network_art__13.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_network_art__2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_network_art__3.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_network_art__4.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_network_art__5.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_network_art__6.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_network_art__7.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_network_art__8.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$people_network_art__9.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$setup_complete_art__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$splash_art__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$splash_art__1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$splash_art__10.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$splash_art__11.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$splash_art__12.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$splash_art__13.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$splash_art__2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$splash_art__3.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$splash_art__4.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$splash_art__5.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$splash_art__6.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$splash_art__7.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$splash_art__8.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$splash_art__9.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/asu_big_logo.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/asu_logo.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/enable_en_art.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/hand_with_phone_art.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/how_it_works_1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/how_it_works_2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/how_it_works_3.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/how_it_works_4.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/how_it_works_art.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_info_banner.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_new_feature.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_party.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_warning.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/people_holding_globe_art.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/people_network_art.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/setup_complete_art.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/splash_art.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-watch/abc_dialog_material_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_hide_password__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_hide_password__1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_hide_password__2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_show_password__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_show_password__1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_show_password__2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_action_bar_item_background_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_borderless_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_check_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_check_material_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_colored_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_default_mtrl_shape.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_radio_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_radio_material_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_cab_background_internal_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_cab_background_top_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_control_background_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_dialog_material_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_edit_text_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_ab_back_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_clear_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_go_search_api_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_menu_overflow_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_search_api_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_voice_search_api_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_item_background_holo_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_item_background_holo_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_divider_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_selector_background_transition_holo_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_selector_background_transition_holo_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_selector_holo_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_selector_holo_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ratingbar_indicator_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ratingbar_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ratingbar_small_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_seekbar_thumb_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_seekbar_tick_mark_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_seekbar_track_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_spinner_textfield_background_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_switch_thumb_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_tab_indicator_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_text_cursor_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_textfield_search_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_vector_test.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/app_big_logo.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/app_logo.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/avd_hide_password.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/avd_show_password.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/az_logo.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/background_launcher.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_dark_divider_bottom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_divider_bottom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_divider_top.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_down_shadow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_high_exposure.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_high_exposure_end.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_high_exposure_middle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_high_exposure_start.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_item_region.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_low_exposure.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_no_exposure.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_checkbox_checked_mtrl.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_checkbox_unchecked_mtrl.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_radio_off_mtrl.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_radio_off_to_on_mtrl_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_radio_on_mtrl.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_radio_on_to_off_mtrl_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/collapse.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/collapse_animated.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_dark_focused.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_dark_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_disabled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_light_focused.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_light_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_dark_focused.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_dark_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_disabled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_light_focused.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_light_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/covidwatch_logo_about.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_fab_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_ic_visibility.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_ic_visibility_off.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_password_eye.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_snackbar_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/divider.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/doctor_with_heart.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/down_shadow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/expand.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/expand_animated.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/gradient_bottom_top_top.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/gradient_how_it_works.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/gradient_top_to_bottom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_arrow_left.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_arrow_right.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_bottom_sheet_handler.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_bullet_point.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_check_true.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_checkbox.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_clock_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_close.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_code_verified.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_exit_to_app.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_external_link.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_info.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_info_red.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_keyboard_arrow_right.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_keyboard_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_launcher_foreground.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_legend_high_exposure.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_legend_low_exposure.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_legend_no_exposure.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_menu.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_mtrl_checked_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_mtrl_chip_checked_black.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_mtrl_chip_checked_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_mtrl_chip_close_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_next_step_phone.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_next_step_share.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_next_step_web.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_notification.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_region.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_settings_white_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_share.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_share_diagnosis.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_small_bullet_point.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_vaccine.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_cursor_drawable.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_calendar_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_clear_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_edit_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_keyboard_arrow_left_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_keyboard_arrow_right_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_menu_arrow_down_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_dialog_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_dropdown_arrow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_ic_arrow_drop_down.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_ic_arrow_drop_up.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_ic_cancel.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_ic_error.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_popupmenu_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_popupmenu_background_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_tabs_default_indicator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/nau_logo.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/navigation_empty_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/next_step_bullet_point.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_action_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_bg_low.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_icon_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_tile_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/onboarding_tab_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/onboarding_tab_indicator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/shadow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/test_custom_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tooltip_frame_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tooltip_frame_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/uoa_logo.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/vaccines_art.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/wehealth_logo_about.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/fast_out_slow_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/mtrl_fast_out_linear_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/mtrl_fast_out_slow_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/mtrl_linear_out_slow_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-land/material_clock_period_toggle_land.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-land/material_timepicker.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-land/mtrl_picker_header_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-ldrtl/material_textinput_timepicker.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-sw600dp/design_layout_snackbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-sw600dp/mtrl_layout_snackbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v26/abc_screen_toolbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v26/mtrl_calendar_month.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-watch/abc_alert_dialog_button_bar_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-watch/abc_alert_dialog_title_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_bar_title_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_menu_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_menu_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_mode_bar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_mode_close_item_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_alert_dialog_button_bar_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_alert_dialog_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_alert_dialog_title_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_cascading_menu_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_dialog_title_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_expanded_menu_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_list_menu_item_checkbox.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_list_menu_item_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_list_menu_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_list_menu_item_radio.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_popup_menu_header_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_popup_menu_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_screen_content_include.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_screen_simple.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_screen_simple_overlay_action_mode.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_screen_toolbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_search_dropdown_item_icons_2line.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_search_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_select_dialog_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_tooltip.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/activity_main.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_bottom_sheet_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_layout_snackbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_layout_snackbar_include.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_layout_tab_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_layout_tab_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_menu_item_action_area.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_menu_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_text_input_end_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_text_input_start_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_test_verification_code_info.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/exposures_info.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_about.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_daily_exposures.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_diagnoses.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_diagnosis_shared.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_enable_exposure_notifications.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_exposures.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_finished_onboarding.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_home.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_how_it_works.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_menu.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_onboarding.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_onboarding_page.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_settings.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_share_diagnosis.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_splash.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_summary_exposures.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_vaccines.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_verify_diagnosis.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_day_summary_exposure.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_diagnosis_child.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_diagnosis_parent.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_exposure_child.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_exposure_parent.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_menu.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_next_step.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_region_name.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_verification_code_step.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_chip_input_combo.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_clock_display.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_clock_display_divider.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_clock_period_toggle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_clockface_textview.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_clockface_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_radial_view_group.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_textinput_timepicker.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_time_chip.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_time_input.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_timepicker.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_timepicker_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_timepicker_textinput_display.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_dialog_actions.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_dialog_title.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_select_dialog_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_select_dialog_multichoice.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_select_dialog_singlechoice.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_day.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_day_of_week.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_days_of_week.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_horizontal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_month.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_month_labeled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_month_navigation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_months.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_vertical.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_year.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_layout_snackbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_layout_snackbar_include.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_actions.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_fullscreen.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_header_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_header_fullscreen.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_header_selection_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_header_title_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_header_toggle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_text_input_date.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_action.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_action_tombstone.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_custom_big.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_icon_group.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_part_chronometer.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_part_time.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/powered_by.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/select_dialog_item_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/select_dialog_multichoice_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/select_dialog_singlechoice_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/share_diagnosis_steps.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/support_simple_spinner_dropdown_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_action_chip.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_chip_zero_corner_radius.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_design_checkbox.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_design_radiobutton.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_reflow_chipgroup.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_toolbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_toolbar_custom_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_toolbar_elevation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_toolbar_surface.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/text_view_with_line_height_from_appearance.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/text_view_with_line_height_from_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/text_view_with_line_height_from_style.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/text_view_with_theme_line_height.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/text_view_without_line_height.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_home_risk_level.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_home_risk_level_info.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/mipmap-anydpi-v26/ic_launcher.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/mipmap-anydpi-v26/ic_launcher_round.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/navigation/navigation_main.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/navigation/navigation_share_diagnosis.xml
+- http://schemas.android.com/apk/res/android"
+path : /sources/com/google/android/material/chip/Chip.java
+- http://schemas.android.com/apk/res/android"
+path : /sources/l/h/c/b/h.java
+- https://app-measurement.com/a"
+path : /sources/m/b/a/b/g/f/q8.java
+- https://app-measurement.com/a"
+path : /sources/m/b/a/b/h/b/x2.java
+- https://bit.ly/2FBTQ8a"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://bit.ly/2FBTQ8a"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://bit.ly/2H8BZWS"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://bit.ly/2H8BZWS"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://bit.ly/2VQhhit"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://bit.ly/2VQhhit"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://bit.ly/2ZNZ1sC"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://bit.ly/2ZNZ1sC"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://bit.ly/32APbMi"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://bit.ly/32APbMi"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://bit.ly/338pyCj"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://bit.ly/338pyCj"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://bit.ly/349QGBN"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://bit.ly/349QGBN"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://bit.ly/35MQlq2"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://bit.ly/35MQlq2"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://bit.ly/36W7DkV"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://bit.ly/36W7DkV"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://bit.ly/39QwlVr"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://bit.ly/39QwlVr"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://bit.ly/39RVUW8"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://bit.ly/39RVUW8"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://bit.ly/3c4cn90"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://bit.ly/3c4cn90"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://bit.ly/3gmfZFv"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://bit.ly/3gmfZFv"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://bit.ly/3gpsnEG"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://bit.ly/3gpsnEG"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://bit.ly/3hFvTcS"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://bit.ly/3hFvTcS"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://bit.ly/3iD9MoQ"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://bit.ly/3iD9MoQ"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://bit.ly/3l3q62C"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://bit.ly/3l3q62C"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://bit.ly/3mw85Mb"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://bit.ly/3mw85Mb"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://bit.ly/3qBAW3M"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://bit.ly/3qBAW3M"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://c.wehealth.org/2JMt6nw"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://c.wehealth.org/2JMt6nw"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://c.wehealth.org/2NETe5F"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/2NETe5F"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/2OUe7Kk"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/2OUe7Kk"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/2OXnGrQ"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://c.wehealth.org/2OXnGrQ"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://c.wehealth.org/2ZCDm6a"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/2ZCDm6a"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/2ZD3RbE"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/2ZD3RbE"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/2ZNv6Ag"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/2ZNv6Ag"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/30qbqTt"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/30qbqTt"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/30s9x8F"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/30s9x8F"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/33T5og0"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://c.wehealth.org/33T5og0"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://c.wehealth.org/33VBCaw"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://c.wehealth.org/33VBCaw"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://c.wehealth.org/37CRSiL"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/37CRSiL"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/37DQtIC"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/37DQtIC"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/38r9f6p"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/38r9f6p"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/3aFl2iZ"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/3aFl2iZ"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/3aQFKfZ"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/3aQFKfZ"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/3bFhIW5"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/3bFhIW5"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/3bigfox"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://c.wehealth.org/3bigfox"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://c.wehealth.org/3bnlweq"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://c.wehealth.org/3bnlweq"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://c.wehealth.org/3bp4KeS"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://c.wehealth.org/3bp4KeS"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://c.wehealth.org/3bvwlcP"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/3bvwlcP"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/3dAi699"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/3dAi699"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/3dCUhO7"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/3dCUhO7"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/3dSHszv"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/3dSHszv"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/3eq80Z8"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/3eq80Z8"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/3nsCMS3"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://c.wehealth.org/3nsCMS3"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://c.wehealth.org/3pMXY6a"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/3pMXY6a"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/3qFo4cF"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/3qFo4cF"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/3qISdI0"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/3qISdI0"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/3qKO6va"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/3qKO6va"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/3qMcsEC"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/3qMcsEC"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/3qPvef0"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://c.wehealth.org/3qPvef0"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://c.wehealth.org/3s1o5c5"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://c.wehealth.org/3s1o5c5"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://c.wehealth.org/3s67l39"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://c.wehealth.org/3s67l39"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://c.wehealth.org/3umCQHx"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/3umCQHx"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/3umzDrx"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/3umzDrx"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://c.wehealth.org/3v3Qe3L"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://c.wehealth.org/3v3Qe3L"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://exposure.api.wehealth.org"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://exposure.api.wehealth.org"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://exposure.api.wehealth.org"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://exposure.api.wehealth.org"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://exposure.wehealth.org"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://exposure.wehealth.org"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://exposure.wehealth.org"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://exposure.wehealth.org"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://exposure.wehealth.org/US-AZ/index.txt"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://exposure.wehealth.org/_BM/index.txt"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://exposure.wehealth.org/_USAZ/index.txt"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://exposure.wehealth.org/exposureKeyExport-BM/index.txt"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://help.wehealth.org/hc/en-us/articles/360060539533-How-is-risk-calculated-"
+path : /sources/e/a/a/a/n/a.java
+- https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps"
+path : /sources/m/b/a/b/a/a/b.java
+- https://play.google.com/store"
+path : /resources/AndroidManifest.xml
+- https://play.google.com/store/apps/details?id=com.google.android.gms"
+path : /sources/e/a/a/a/g.java
+- https://plus.google.com/"
+path : /sources/m/b/a/b/d/k/c1.java
+- https://us-az.verify.wehealth.org/v?c={c}"
+path : /resources/res/navigation/navigation_share_diagnosis.xml
+- https://verification.api.wehealth.org"
+path : /resources/assets/gov-azdhs-covidwatch-demo.json
+- https://verification.api.wehealth.org"
+path : /resources/assets/gov-azdhs-covidwatch-prod.json
+- https://verification.api.wehealth.org"
+path : /resources/assets/org-wehealth-exposure-demo.json
+- https://verification.api.wehealth.org"
+path : /resources/assets/org-wehealth-exposure-prod.json
+- https://verification.api.wehealth.org"
+path : /sources/org/covidwatch/android/data/model/DefaultServerConfiguration.java
+- https://www.covidwatch.org/get_support"
+path : /sources/e/a/a/a/p/c.java
+- https://www.covidwatch.org/get_support"
+path : /sources/org/covidwatch/android/ui/BaseViewModelFragment.java
+- https://www.google.com"
+path : /sources/m/b/a/b/h/b/l6.java
+- https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s"
+path : /sources/m/b/a/b/h/b/o5.java
+- https://www.wehealth.org/solutions/app"
+path : /sources/defpackage/g.java
+- https://www.wehealth.org/solutions/app"
+path : /sources/e/a/a/a/a.java
+- https://www.wehealth.org/solutions/app"
+path : /sources/org/covidwatch/android/ui/onboarding/FinishedOnboardingFragment.java
+- https://www.wehealth.org/solutions/app"
+path : /sources/org/covidwatch/android/ui/onboarding/OnboardingFragment.java
+- https://www.wehealth.org/solutions/app"
+path : /sources/org/covidwatch/android/ui/reporting/DiagnosisSharedFragment.java
+- https://www.wehealth.org/solutions/app"
+path : /sources/org/covidwatch/android/ui/settings/SettingsFragment.java
+- java/lang/"
+path : /sources/h/a/a/a/u0/d/b/r.java
+- java/lang/"
+path : /sources/h/a/a/a/u0/e/a0/b/b.java
+- java/lang/Class"
+path : /sources/h/a/a/a/u0/d/b/j.java
+- java/lang/Object"
+path : /sources/h/a/a/a/u0/e/a0/b/b.java
+- java/lang/Void"
+path : /sources/h/a/a/a/u0/e/a0/b/b.java
+- java/lang/annotation/Annotation"
+path : /sources/h/a/a/a/u0/e/a0/b/b.java
+- java/util/"
+path : /sources/h/a/a/a/u0/d/b/r.java
+- java/util/"
+path : /sources/h/a/a/a/u0/e/a0/b/b.java
+- java/util/Collection"
+path : /sources/h/a/a/a/u0/d/a/e.java
+- java/util/List"
+path : /sources/h/a/a/a/u0/d/a/d.java
+- java/util/Spliterator"
+path : /sources/h/a/a/a/u0/d/a/e0/i.java
+- java/util/function/"
+path : /sources/h/a/a/a/u0/d/b/r.java
+- overrides.txt"
+path : /sources/m/b/a/b/g/f/i3.java
+- ref/Reference"
+path : /sources/h/a/a/a/u0/d/a/e0/i.java
+- reflect/KFunction"
+path : /sources/h/a/a/a/u0/e/a0/b/b.java
+- stream/Stream"
+path : /sources/h/a/a/a/u0/d/a/e0/i.java
+
+[Mailto]
+- covid19casemanagement@gov.bm
+path : /resources/assets/org-wehealth-exposure-demo.json
+
+- covid19casemanagement@gov.bm
+path : /resources/assets/org-wehealth-exposure-prod.json
+
+

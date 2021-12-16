@@ -1,0 +1,2483 @@
+[Authorization_Basic]
+- basic constraint
+path : /resources/org/bouncycastle/x509/CertPathReviewerMessages.properties
+
+- basic constraints
+path : /resources/org/bouncycastle/x509/CertPathReviewerMessages.properties
+
+- basic constraints.
+path : /resources/org/bouncycastle/x509/CertPathReviewerMessages.properties
+
+
+[HackerOne_CTF_Flag]
+- h1{font-family:Inter;font-size:22px;font-weight:700;font-stretch:normal;font-style:normal;line-height:1.36;letter-spacing:normal;color:#4a4969;margin:0}@media(prefers-color-scheme:dark){h1{color:#fff}}h2{font-family:Inter;font-size:16px;font-weight:700;font-stretch:normal;font-style:normal;line-height:1.5;letter-spacing:normal;color:#4a4969;margin:0}@media(prefers-color-scheme:dark){h2{color:#fff}}p{font-family:Inter;font-size:16px;line-height:1.5;color:#4a4969;margin:0}@media(prefers-color-scheme:dark){p{color:#fff}}p strong{font-weight:700}ul li{font-family:Inter;font-size:16px;line-height:1.5;color:#4a4969}@media(prefers-color-scheme:dark){ul li{color:#fff}}ul li strong{font-weight:700}a{font-family:Inter;font-size:16px;font-weight:700;font-stretch:normal;font-style:normal;line-height:1.5;letter-spacing:normal;color:#63a0c7;text-decoration:none}body{margin:0}body header{background-color:#f7f7f7;padding:20px 16px 18px 20px;width:calc(100% - 36px);display:flex;justify-content:space-between}@media(prefers-color-scheme:dark){body header{background-color:#000}}body header div{font-family:Inter;font-size:16px;line-height:1.5;color:#4a4969;letter-spacing:normal;font-stretch:normal;font-style:normal}@media(prefers-color-scheme:dark){body header div{color:#fff}}body header div.title{font-weight:700}body header div.version{text-align:right}body footer{background-color:#f7f7f7;padding:8px;width:calc(100% - 16px)}body footer p{font-size:13px}body footer div.build{font-family:Inter;font-size:16px;line-height:1.5;color:#4a4969;letter-spacing:normal;font-stretch:normal;font-style:normal;margin-top:16px;margin-bottom:22px;width:100%;text-align:right}body footer .warning{padding:16px;width:calc(100% - 32px)}body footer .gray-box{margin:3px;mix-blend-mode:multiply;background-color:#f7f7f7;padding:13px}body footer .flexbox{display:flex}body footer .stretch{flex-grow:1}body footer .iso-icon{margin:9px 3px}body footer .ce-icon{margin:7px;height:23px;width:32px}@media(prefers-color-scheme:dark){body footer{background-color:#000}body footer div.build{color:#fff}body footer .gray-box{background-color:#16161a;mix-blend-mode:normal}}body .container{padding:17px 15px 26px;width:calc(100% - 30px)}body .container.impressum{background-color:#fff}body .container.impressum>:not(.divider){margin-left:52px}@media(prefers-color-scheme:dark){body .container.impressum{background-color:#16161a}}body .container.licence{background-color:#f7f7f7}body .container.licence>:not(.divider){margin-left:10px}body .container.licence>h1:first-child{margin-top:21px}@media(prefers-color-scheme:dark){body .container.licence{background-color:#1e1e23}}body .container>h1{margin-bottom:20px}body .container>h1:not(:first-child){margin-top:31px}body .container>h1+h2{margin-top:0}body .container h2{margin-top:26px;margin-bottom:10px}body .container h2.no-bottom-margin{margin-bottom:0}body .container ul{list-style:none;margin:0;padding:0;margin-right:19px}body .container ul li:not(:first-child){margin-top:15px}body .container .licence-list{margin-top:49px}body .container .licence-list ul li{margin-left:35px;position:relative}body .container .licence-list ul li:not(:first-child){margin-top:42px}body .container .licence-list ul li:before{content:"";display:block;background:url(../img/ic-arrow-blue.svg)no-repeat;width:24px;height:24px;position:absolute;left:-34px}body .container a.link{display:flex;overflow:hidden;text-overflow:ellipsis}body .container a.link img{width:24px;height:24px;margin-right:10px}body .container .divider{height:1px;width:100%;background-color:#e6e6e6;margin-top:61px}@media(prefers-color-scheme:dark){body .container .divider{background-color:#1e1e23}}body .container .text{padding-right:27px}body .container .text+.link,body .container .text+.text{margin-top:20px}body .container img.bag-logo{max-width:100%;margin-left:-47px;margin-bottom:14px}body .container img.logo{max-width:100%}body .container img.logo.logo-epfl{margin-top:6px;margin-bottom:20px}body .container img.logo.logo-ethz{margin-top:38px;margin-bottom:13px}body .container img.logo.logo-ubique{width:176px;height:auto;margin-top:3px;margin-bottom:14px}body .container .licence-link{margin-top:31px;padding-right:6px;display:flex;justify-content:space-between}
+path : /resources/assets/impressum/scss/main.min.css
+
+
+[IP_Address]
+- 0.4.0.1
+path : /sources/org/bouncycastle/asn1/isara/IsaraObjectIdentifiers.java
+
+- 1.3.14.3
+path : /sources/org/bouncycastle/asn1/oiw/OIWObjectIdentifiers.java
+
+- 1.3.14.7
+path : /sources/org/bouncycastle/asn1/oiw/OIWObjectIdentifiers.java
+
+- 1.3.6.1
+path : /sources/org/bouncycastle/asn1/bc/BCObjectIdentifiers.java
+
+- 1.3.6.1
+path : /sources/org/bouncycastle/pqc/asn1/PQCObjectIdentifiers.java
+
+- 1.58.38.7
+path : /resources/assets/impressum/img/bundeslogo-bag-dark.svg
+
+- 1.58.38.7
+path : /resources/assets/impressum/img/bundeslogo-bag.svg
+
+- 2.54.145.7
+path : /resources/assets/impressum/img/logo-epfl-dark.svg
+
+- 2.54.145.7
+path : /resources/assets/impressum/img/logo-epfl.svg
+
+- 40.1.101.3
+path : /sources/org/bouncycastle/asn1/nist/NISTObjectIdentifiers.java
+
+- 49.1.7.1
+path : /sources/org/bouncycastle/asn1/pkcs/PKCSObjectIdentifiers.java
+
+- 49.1.7.2
+path : /sources/org/bouncycastle/asn1/pkcs/PKCSObjectIdentifiers.java
+
+- 49.1.7.3
+path : /sources/org/bouncycastle/asn1/pkcs/PKCSObjectIdentifiers.java
+
+- 49.1.7.4
+path : /sources/org/bouncycastle/asn1/pkcs/PKCSObjectIdentifiers.java
+
+- 49.1.7.5
+path : /sources/org/bouncycastle/asn1/pkcs/PKCSObjectIdentifiers.java
+
+- 49.1.7.6
+path : /sources/org/bouncycastle/asn1/pkcs/PKCSObjectIdentifiers.java
+
+- 49.1.9.1
+path : /sources/org/bouncycastle/asn1/pkcs/PKCSObjectIdentifiers.java
+
+- 7.205.4.9
+path : /resources/assets/impressum/img/bundeslogo-bag-dark.svg
+
+- 7.205.4.9
+path : /resources/assets/impressum/img/bundeslogo-bag.svg
+
+
+[JSON_Web_Token]
+- 1.0.0-alpha23
+path : /resources/META-INF/androidx.camera_camera-view.version
+
+- 1.0.0-beta01
+path : /resources/META-INF/androidx.datastore_datastore.version
+
+- 1.0.0-rc04
+path : /resources/META-INF/androidx.camera_camera-camera2.version
+
+- 1.0.0-rc04
+path : /resources/META-INF/androidx.camera_camera-core.version
+
+- 1.0.0-rc04
+path : /resources/META-INF/androidx.camera_camera-lifecycle.version
+
+- version=17.0.0
+path : /resources/play-services-instantapps.properties
+
+- version=17.2.1
+path : /resources/play-services-tasks.properties
+
+- version=17.6.0
+path : /resources/play-services-base.properties
+
+- version=17.6.0
+path : /resources/play-services-basement.properties
+
+- version=18.0.3
+path : /resources/play-services-nearby.properties
+
+
+[LinkFinder]
+- ../img/bundeslogo-bag-dark.svg"
+path : /resources/assets/impressum/bs/impressum.html
+- ../img/bundeslogo-bag-dark.svg"
+path : /resources/assets/impressum/de/impressum.html
+- ../img/bundeslogo-bag-dark.svg"
+path : /resources/assets/impressum/en/impressum.html
+- ../img/bundeslogo-bag-dark.svg"
+path : /resources/assets/impressum/es/impressum.html
+- ../img/bundeslogo-bag-dark.svg"
+path : /resources/assets/impressum/fr/impressum.html
+- ../img/bundeslogo-bag-dark.svg"
+path : /resources/assets/impressum/hr/impressum.html
+- ../img/bundeslogo-bag-dark.svg"
+path : /resources/assets/impressum/it/impressum.html
+- ../img/bundeslogo-bag-dark.svg"
+path : /resources/assets/impressum/pt/impressum.html
+- ../img/bundeslogo-bag-dark.svg"
+path : /resources/assets/impressum/rm/impressum.html
+- ../img/bundeslogo-bag-dark.svg"
+path : /resources/assets/impressum/sq/impressum.html
+- ../img/bundeslogo-bag-dark.svg"
+path : /resources/assets/impressum/sr/impressum.html
+- ../img/bundeslogo-bag-dark.svg"
+path : /resources/assets/impressum/ti/impressum.html
+- ../img/bundeslogo-bag-dark.svg"
+path : /resources/assets/impressum/tr/impressum.html
+- ../img/bundeslogo-bag.svg"
+path : /resources/assets/impressum/bs/impressum.html
+- ../img/bundeslogo-bag.svg"
+path : /resources/assets/impressum/de/impressum.html
+- ../img/bundeslogo-bag.svg"
+path : /resources/assets/impressum/en/impressum.html
+- ../img/bundeslogo-bag.svg"
+path : /resources/assets/impressum/es/impressum.html
+- ../img/bundeslogo-bag.svg"
+path : /resources/assets/impressum/fr/impressum.html
+- ../img/bundeslogo-bag.svg"
+path : /resources/assets/impressum/hr/impressum.html
+- ../img/bundeslogo-bag.svg"
+path : /resources/assets/impressum/it/impressum.html
+- ../img/bundeslogo-bag.svg"
+path : /resources/assets/impressum/pt/impressum.html
+- ../img/bundeslogo-bag.svg"
+path : /resources/assets/impressum/rm/impressum.html
+- ../img/bundeslogo-bag.svg"
+path : /resources/assets/impressum/sq/impressum.html
+- ../img/bundeslogo-bag.svg"
+path : /resources/assets/impressum/sr/impressum.html
+- ../img/bundeslogo-bag.svg"
+path : /resources/assets/impressum/ti/impressum.html
+- ../img/bundeslogo-bag.svg"
+path : /resources/assets/impressum/tr/impressum.html
+- ../img/ic-arrow-dark.svg"
+path : /resources/assets/impressum/bs/impressum.html
+- ../img/ic-arrow-dark.svg"
+path : /resources/assets/impressum/de/impressum.html
+- ../img/ic-arrow-dark.svg"
+path : /resources/assets/impressum/en/impressum.html
+- ../img/ic-arrow-dark.svg"
+path : /resources/assets/impressum/es/impressum.html
+- ../img/ic-arrow-dark.svg"
+path : /resources/assets/impressum/fr/impressum.html
+- ../img/ic-arrow-dark.svg"
+path : /resources/assets/impressum/hr/impressum.html
+- ../img/ic-arrow-dark.svg"
+path : /resources/assets/impressum/it/impressum.html
+- ../img/ic-arrow-dark.svg"
+path : /resources/assets/impressum/pt/impressum.html
+- ../img/ic-arrow-dark.svg"
+path : /resources/assets/impressum/rm/impressum.html
+- ../img/ic-arrow-dark.svg"
+path : /resources/assets/impressum/sq/impressum.html
+- ../img/ic-arrow-dark.svg"
+path : /resources/assets/impressum/sr/impressum.html
+- ../img/ic-arrow-dark.svg"
+path : /resources/assets/impressum/ti/impressum.html
+- ../img/ic-arrow-dark.svg"
+path : /resources/assets/impressum/tr/impressum.html
+- ../img/ic-arrow.svg"
+path : /resources/assets/impressum/bs/impressum.html
+- ../img/ic-arrow.svg"
+path : /resources/assets/impressum/de/impressum.html
+- ../img/ic-arrow.svg"
+path : /resources/assets/impressum/en/impressum.html
+- ../img/ic-arrow.svg"
+path : /resources/assets/impressum/es/impressum.html
+- ../img/ic-arrow.svg"
+path : /resources/assets/impressum/fr/impressum.html
+- ../img/ic-arrow.svg"
+path : /resources/assets/impressum/hr/impressum.html
+- ../img/ic-arrow.svg"
+path : /resources/assets/impressum/it/impressum.html
+- ../img/ic-arrow.svg"
+path : /resources/assets/impressum/pt/impressum.html
+- ../img/ic-arrow.svg"
+path : /resources/assets/impressum/rm/impressum.html
+- ../img/ic-arrow.svg"
+path : /resources/assets/impressum/sq/impressum.html
+- ../img/ic-arrow.svg"
+path : /resources/assets/impressum/sr/impressum.html
+- ../img/ic-arrow.svg"
+path : /resources/assets/impressum/ti/impressum.html
+- ../img/ic-arrow.svg"
+path : /resources/assets/impressum/tr/impressum.html
+- ../img/ic-call.svg"
+path : /resources/assets/impressum/bs/impressum.html
+- ../img/ic-call.svg"
+path : /resources/assets/impressum/de/impressum.html
+- ../img/ic-call.svg"
+path : /resources/assets/impressum/en/impressum.html
+- ../img/ic-call.svg"
+path : /resources/assets/impressum/es/impressum.html
+- ../img/ic-call.svg"
+path : /resources/assets/impressum/fr/impressum.html
+- ../img/ic-call.svg"
+path : /resources/assets/impressum/hr/impressum.html
+- ../img/ic-call.svg"
+path : /resources/assets/impressum/it/impressum.html
+- ../img/ic-call.svg"
+path : /resources/assets/impressum/pt/impressum.html
+- ../img/ic-call.svg"
+path : /resources/assets/impressum/rm/impressum.html
+- ../img/ic-call.svg"
+path : /resources/assets/impressum/sq/impressum.html
+- ../img/ic-call.svg"
+path : /resources/assets/impressum/sr/impressum.html
+- ../img/ic-call.svg"
+path : /resources/assets/impressum/ti/impressum.html
+- ../img/ic-call.svg"
+path : /resources/assets/impressum/tr/impressum.html
+- ../img/ic-link-external.svg"
+path : /resources/assets/impressum/bs/impressum.html
+- ../img/ic-link-external.svg"
+path : /resources/assets/impressum/de/impressum.html
+- ../img/ic-link-external.svg"
+path : /resources/assets/impressum/en/impressum.html
+- ../img/ic-link-external.svg"
+path : /resources/assets/impressum/es/impressum.html
+- ../img/ic-link-external.svg"
+path : /resources/assets/impressum/fr/impressum.html
+- ../img/ic-link-external.svg"
+path : /resources/assets/impressum/hr/impressum.html
+- ../img/ic-link-external.svg"
+path : /resources/assets/impressum/it/impressum.html
+- ../img/ic-link-external.svg"
+path : /resources/assets/impressum/pt/impressum.html
+- ../img/ic-link-external.svg"
+path : /resources/assets/impressum/rm/impressum.html
+- ../img/ic-link-external.svg"
+path : /resources/assets/impressum/sq/impressum.html
+- ../img/ic-link-external.svg"
+path : /resources/assets/impressum/sr/impressum.html
+- ../img/ic-link-external.svg"
+path : /resources/assets/impressum/ti/impressum.html
+- ../img/ic-link-external.svg"
+path : /resources/assets/impressum/tr/impressum.html
+- ../img/logo-epfl-dark.svg"
+path : /resources/assets/impressum/bs/impressum.html
+- ../img/logo-epfl-dark.svg"
+path : /resources/assets/impressum/de/impressum.html
+- ../img/logo-epfl-dark.svg"
+path : /resources/assets/impressum/en/impressum.html
+- ../img/logo-epfl-dark.svg"
+path : /resources/assets/impressum/es/impressum.html
+- ../img/logo-epfl-dark.svg"
+path : /resources/assets/impressum/fr/impressum.html
+- ../img/logo-epfl-dark.svg"
+path : /resources/assets/impressum/hr/impressum.html
+- ../img/logo-epfl-dark.svg"
+path : /resources/assets/impressum/it/impressum.html
+- ../img/logo-epfl-dark.svg"
+path : /resources/assets/impressum/pt/impressum.html
+- ../img/logo-epfl-dark.svg"
+path : /resources/assets/impressum/rm/impressum.html
+- ../img/logo-epfl-dark.svg"
+path : /resources/assets/impressum/sq/impressum.html
+- ../img/logo-epfl-dark.svg"
+path : /resources/assets/impressum/sr/impressum.html
+- ../img/logo-epfl-dark.svg"
+path : /resources/assets/impressum/ti/impressum.html
+- ../img/logo-epfl-dark.svg"
+path : /resources/assets/impressum/tr/impressum.html
+- ../img/logo-epfl.svg"
+path : /resources/assets/impressum/bs/impressum.html
+- ../img/logo-epfl.svg"
+path : /resources/assets/impressum/de/impressum.html
+- ../img/logo-epfl.svg"
+path : /resources/assets/impressum/en/impressum.html
+- ../img/logo-epfl.svg"
+path : /resources/assets/impressum/es/impressum.html
+- ../img/logo-epfl.svg"
+path : /resources/assets/impressum/fr/impressum.html
+- ../img/logo-epfl.svg"
+path : /resources/assets/impressum/hr/impressum.html
+- ../img/logo-epfl.svg"
+path : /resources/assets/impressum/it/impressum.html
+- ../img/logo-epfl.svg"
+path : /resources/assets/impressum/pt/impressum.html
+- ../img/logo-epfl.svg"
+path : /resources/assets/impressum/rm/impressum.html
+- ../img/logo-epfl.svg"
+path : /resources/assets/impressum/sq/impressum.html
+- ../img/logo-epfl.svg"
+path : /resources/assets/impressum/sr/impressum.html
+- ../img/logo-epfl.svg"
+path : /resources/assets/impressum/ti/impressum.html
+- ../img/logo-epfl.svg"
+path : /resources/assets/impressum/tr/impressum.html
+- ../img/logo-ethz-dark.svg"
+path : /resources/assets/impressum/bs/impressum.html
+- ../img/logo-ethz-dark.svg"
+path : /resources/assets/impressum/de/impressum.html
+- ../img/logo-ethz-dark.svg"
+path : /resources/assets/impressum/en/impressum.html
+- ../img/logo-ethz-dark.svg"
+path : /resources/assets/impressum/es/impressum.html
+- ../img/logo-ethz-dark.svg"
+path : /resources/assets/impressum/fr/impressum.html
+- ../img/logo-ethz-dark.svg"
+path : /resources/assets/impressum/hr/impressum.html
+- ../img/logo-ethz-dark.svg"
+path : /resources/assets/impressum/it/impressum.html
+- ../img/logo-ethz-dark.svg"
+path : /resources/assets/impressum/pt/impressum.html
+- ../img/logo-ethz-dark.svg"
+path : /resources/assets/impressum/rm/impressum.html
+- ../img/logo-ethz-dark.svg"
+path : /resources/assets/impressum/sq/impressum.html
+- ../img/logo-ethz-dark.svg"
+path : /resources/assets/impressum/sr/impressum.html
+- ../img/logo-ethz-dark.svg"
+path : /resources/assets/impressum/ti/impressum.html
+- ../img/logo-ethz-dark.svg"
+path : /resources/assets/impressum/tr/impressum.html
+- ../img/logo-ethz.svg"
+path : /resources/assets/impressum/bs/impressum.html
+- ../img/logo-ethz.svg"
+path : /resources/assets/impressum/de/impressum.html
+- ../img/logo-ethz.svg"
+path : /resources/assets/impressum/en/impressum.html
+- ../img/logo-ethz.svg"
+path : /resources/assets/impressum/es/impressum.html
+- ../img/logo-ethz.svg"
+path : /resources/assets/impressum/fr/impressum.html
+- ../img/logo-ethz.svg"
+path : /resources/assets/impressum/hr/impressum.html
+- ../img/logo-ethz.svg"
+path : /resources/assets/impressum/it/impressum.html
+- ../img/logo-ethz.svg"
+path : /resources/assets/impressum/pt/impressum.html
+- ../img/logo-ethz.svg"
+path : /resources/assets/impressum/rm/impressum.html
+- ../img/logo-ethz.svg"
+path : /resources/assets/impressum/sq/impressum.html
+- ../img/logo-ethz.svg"
+path : /resources/assets/impressum/sr/impressum.html
+- ../img/logo-ethz.svg"
+path : /resources/assets/impressum/ti/impressum.html
+- ../img/logo-ethz.svg"
+path : /resources/assets/impressum/tr/impressum.html
+- ../img/logo-ubique-dark.svg"
+path : /resources/assets/impressum/bs/impressum.html
+- ../img/logo-ubique-dark.svg"
+path : /resources/assets/impressum/de/impressum.html
+- ../img/logo-ubique-dark.svg"
+path : /resources/assets/impressum/en/impressum.html
+- ../img/logo-ubique-dark.svg"
+path : /resources/assets/impressum/es/impressum.html
+- ../img/logo-ubique-dark.svg"
+path : /resources/assets/impressum/fr/impressum.html
+- ../img/logo-ubique-dark.svg"
+path : /resources/assets/impressum/hr/impressum.html
+- ../img/logo-ubique-dark.svg"
+path : /resources/assets/impressum/it/impressum.html
+- ../img/logo-ubique-dark.svg"
+path : /resources/assets/impressum/pt/impressum.html
+- ../img/logo-ubique-dark.svg"
+path : /resources/assets/impressum/rm/impressum.html
+- ../img/logo-ubique-dark.svg"
+path : /resources/assets/impressum/sq/impressum.html
+- ../img/logo-ubique-dark.svg"
+path : /resources/assets/impressum/sr/impressum.html
+- ../img/logo-ubique-dark.svg"
+path : /resources/assets/impressum/ti/impressum.html
+- ../img/logo-ubique-dark.svg"
+path : /resources/assets/impressum/tr/impressum.html
+- ../img/logo-ubique.svg"
+path : /resources/assets/impressum/bs/impressum.html
+- ../img/logo-ubique.svg"
+path : /resources/assets/impressum/de/impressum.html
+- ../img/logo-ubique.svg"
+path : /resources/assets/impressum/en/impressum.html
+- ../img/logo-ubique.svg"
+path : /resources/assets/impressum/es/impressum.html
+- ../img/logo-ubique.svg"
+path : /resources/assets/impressum/fr/impressum.html
+- ../img/logo-ubique.svg"
+path : /resources/assets/impressum/hr/impressum.html
+- ../img/logo-ubique.svg"
+path : /resources/assets/impressum/it/impressum.html
+- ../img/logo-ubique.svg"
+path : /resources/assets/impressum/pt/impressum.html
+- ../img/logo-ubique.svg"
+path : /resources/assets/impressum/rm/impressum.html
+- ../img/logo-ubique.svg"
+path : /resources/assets/impressum/sq/impressum.html
+- ../img/logo-ubique.svg"
+path : /resources/assets/impressum/sr/impressum.html
+- ../img/logo-ubique.svg"
+path : /resources/assets/impressum/ti/impressum.html
+- ../img/logo-ubique.svg"
+path : /resources/assets/impressum/tr/impressum.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/bs/impressum.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/bs/licence.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/de/impressum.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/de/licence.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/en/impressum.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/en/licence.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/es/impressum.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/es/licence.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/fr/impressum.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/fr/licence.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/hr/impressum.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/hr/licence.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/it/impressum.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/it/licence.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/pt/impressum.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/pt/licence.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/rm/impressum.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/rm/licence.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/sq/impressum.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/sq/licence.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/sr/impressum.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/sr/licence.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/ti/impressum.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/ti/licence.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/tr/impressum.html
+- ../scss/main.min.css"
+path : /resources/assets/impressum/tr/licence.html
+- /..."
+path : /sources/okhttp3/HttpUrl.java
+- /Library/Frameworks/"
+path : /sources/com/sun/jna/NativeLibrary.java
+- /System"
+path : /sources/com/sun/jna/NativeLibrary.java
+- /com/sun/jna/"
+path : /sources/com/sun/jna/Native.java
+- /index.html"
+path : /sources/okhttp3/internal/http2/Hpack.java
+- /proc/self/exe"
+path : /sources/com/sun/jna/Platform.java
+- /usr/lib"
+path : /sources/com/sun/jna/NativeLibrary.java
+- /usr/lib/"
+path : /sources/com/sun/jna/NativeLibrary.java
+- AES/CBC/PKCS7Padding"
+path : /sources/androidx/biometric/CryptoObjectUtils.java
+- AES/CTR/NOPADDING"
+path : /sources/com/google/crypto/tink/subtle/AesEaxJce.java
+- AES/CTR/NoPadding"
+path : /sources/com/google/crypto/tink/subtle/AesCtrJceCipher.java
+- AES/CTR/NoPadding"
+path : /sources/com/google/crypto/tink/subtle/AesSiv.java
+- AES/ECB/NOPADDING"
+path : /sources/com/google/crypto/tink/subtle/AesEaxJce.java
+- AES/ECB/NoPadding"
+path : /sources/com/google/crypto/tink/subtle/PrfAesCmac.java
+- AES/GCM-SIV/NoPadding"
+path : /sources/com/google/crypto/tink/aead/AeadConfig.java
+- AES/GCM-SIV/NoPadding"
+path : /sources/com/google/crypto/tink/aead/subtle/AesGcmSiv.java
+- AES/GCM/NoPadding"
+path : /sources/com/google/crypto/tink/integration/android/AndroidKeystoreAesGcm.java
+- AES/GCM/NoPadding"
+path : /sources/com/google/crypto/tink/subtle/AesGcmJce.java
+- Africa/Addis_Ababa"
+path : /sources/j$/time/ZoneId.java
+- Africa/Cairo"
+path : /sources/j$/time/ZoneId.java
+- Africa/Harare"
+path : /sources/j$/time/ZoneId.java
+- America/Anchorage"
+path : /sources/j$/time/ZoneId.java
+- America/Argentina/Buenos_Aires"
+path : /sources/j$/time/ZoneId.java
+- America/Chicago"
+path : /sources/j$/time/ZoneId.java
+- America/Indiana/Indianapolis"
+path : /sources/j$/time/ZoneId.java
+- America/Los_Angeles"
+path : /sources/j$/time/ZoneId.java
+- America/Phoenix"
+path : /sources/j$/time/ZoneId.java
+- America/Puerto_Rico"
+path : /sources/j$/time/ZoneId.java
+- America/Sao_Paulo"
+path : /sources/j$/time/ZoneId.java
+- America/St_Johns"
+path : /sources/j$/time/ZoneId.java
+- Asia/Dhaka"
+path : /sources/j$/time/ZoneId.java
+- Asia/Ho_Chi_Minh"
+path : /sources/j$/time/ZoneId.java
+- Asia/Karachi"
+path : /sources/j$/time/ZoneId.java
+- Asia/Kolkata"
+path : /sources/j$/time/ZoneId.java
+- Asia/Shanghai"
+path : /sources/j$/time/ZoneId.java
+- Asia/Tokyo"
+path : /sources/j$/time/ZoneId.java
+- Asia/Yerevan"
+path : /sources/j$/time/ZoneId.java
+- Australia/Darwin"
+path : /sources/j$/time/ZoneId.java
+- Australia/Sydney"
+path : /sources/j$/time/ZoneId.java
+- Europe/Paris"
+path : /sources/j$/time/ZoneId.java
+- JNA/temp"
+path : /sources/com/sun/jna/Native.java
+- Pacific/Apia"
+path : /sources/j$/time/ZoneId.java
+- Pacific/Auckland"
+path : /sources/j$/time/ZoneId.java
+- Pacific/Guadalcanal"
+path : /sources/j$/time/ZoneId.java
+- SHA-512/256"
+path : /sources/org/bouncycastle/pqc/crypto/util/Utils.java
+- XMSSMT_SHA2_20/2_256"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHA2_20/2_512"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHA2_20/4_256"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHA2_20/4_512"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHA2_40/2_256"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHA2_40/2_512"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHA2_40/4_256"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHA2_40/4_512"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHA2_40/8_256"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHA2_40/8_512"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHA2_60/12_256"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHA2_60/12_512"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHA2_60/3_256"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHA2_60/3_512"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHA2_60/6_256"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHA2_60/6_512"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHAKE_20/2_256"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHAKE_20/2_512"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHAKE_20/4_256"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHAKE_20/4_512"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHAKE_40/2_256"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHAKE_40/2_512"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHAKE_40/4_256"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHAKE_40/4_512"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHAKE_40/8_256"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHAKE_40/8_512"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHAKE_60/12_256"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHAKE_60/12_512"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHAKE_60/3_256"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHAKE_60/3_512"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHAKE_60/6_256"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- XMSSMT_SHAKE_60/6_512"
+path : /sources/org/bouncycastle/pqc/crypto/xmss/DefaultXMSSMTOid.java
+- content://com.google.android.gms.instantapps.provider.api/"
+path : /sources/com/google/android/gms/internal/instantapps/zzak.java
+- content://com.google.android.gsf.gservices"
+path : /sources/com/google/android/gms/internal/nearby/zznj.java
+- content://com.google.android.gsf.gservices/prefix"
+path : /sources/com/google/android/gms/internal/nearby/zznj.java
+- data_protection_statement.html"
+path : /sources/ch/admin/bag/dp3t/R$string.java
+- disclaimer/de/data_protection_statement.html"
+path : /sources/ch/admin/bag/dp3t/R$string.java
+- disclaimer/de/terms_of_use.html"
+path : /sources/ch/admin/bag/dp3t/R$string.java
+- dp3t_sdk_preferences.xml"
+path : /resources/res/xml/dp3t_sdk_backup_rules.xml
+- dp3t_store.xml"
+path : /resources/res/xml/dp3t_sdk_backup_rules.xml
+- gnu/kfreebsd"
+path : /sources/com/sun/jna/Platform.java
+- http://schemas.android.com/apk/res-auto"
+path : /resources/res/xml/standalone_badge.xml
+- http://schemas.android.com/apk/res-auto"
+path : /resources/res/xml/standalone_badge_gravity_bottom_end.xml
+- http://schemas.android.com/apk/res-auto"
+path : /resources/res/xml/standalone_badge_gravity_bottom_start.xml
+- http://schemas.android.com/apk/res-auto"
+path : /resources/res/xml/standalone_badge_gravity_top_start.xml
+- http://schemas.android.com/apk/res-auto"
+path : /resources/res/xml/standalone_badge_offset.xml
+- http://schemas.android.com/apk/res-auto"
+path : /sources/com/google/android/material/chip/Chip.java
+- http://schemas.android.com/apk/res/android"
+path : /resources/AndroidManifest.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_fade_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_fade_out.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_grow_fade_in_from_bottom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_popup_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_popup_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_shrink_fade_out_from_bottom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_slide_in_bottom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_slide_in_top.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_slide_out_bottom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_slide_out_top.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_tooltip_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_tooltip_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_checked_icon_null_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/design_bottom_sheet_slide_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/design_bottom_sheet_slide_out.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/design_snackbar_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/design_snackbar_out.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/fragment_fast_out_extra_slow_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/fragment_open_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/fragment_open_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/modal_pop_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/modal_pop_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/modal_slide_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/modal_slide_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/mtrl_bottom_sheet_slide_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/mtrl_bottom_sheet_slide_out.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/mtrl_card_lowers_interpolator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/slide_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/slide_pop_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/design_appbar_state_list_animator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/design_fab_hide_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/design_fab_show_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/fragment_close_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/fragment_close_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/fragment_fade_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/fragment_fade_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/fragment_open_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/fragment_open_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_btn_state_list_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_card_state_list_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_chip_state_list_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_extended_fab_change_size_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_extended_fab_hide_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_extended_fab_show_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_extended_fab_state_list_animator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_fab_hide_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_fab_show_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_fab_transformation_sheet_collapse_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_fab_transformation_sheet_expand_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color-v26/biometric_error_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_background_cache_hint_selector_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_background_cache_hint_selector_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_btn_colored_borderless_text_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_btn_colored_text_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_color_highlight_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_hint_foreground_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_hint_foreground_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_primary_text_disable_only_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_primary_text_disable_only_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_primary_text_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_primary_text_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_search_url_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_secondary_text_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_secondary_text_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_btn_checkable.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_default.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_edittext.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_seek_thumb.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_spinner.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_switch_track.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/checkbox_themeable_attribute_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/common_google_signin_btn_text_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/common_google_signin_btn_text_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/common_google_signin_btn_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/design_box_stroke_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/design_error.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/design_icon_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_background_disabled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_background_emphasis_high_type.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_background_emphasis_medium.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_primary_disabled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_primary_emphasis_high_type.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_primary_emphasis_medium.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_surface_disabled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_surface_emphasis_high_type.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_surface_emphasis_medium.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_surface_stroke.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_active_tick_marks_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_active_track_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_halo_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_inactive_tick_marks_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_inactive_track_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_thumb_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_bottom_nav_colored_item_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_bottom_nav_colored_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_bottom_nav_item_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_bottom_nav_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_bg_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_stroke_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_text_btn_bg_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_text_btn_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_calendar_item_stroke_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_calendar_selected_range.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_card_view_foreground.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_card_view_ripple.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_chip_background_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_chip_close_icon_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_chip_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_chip_surface_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_chip_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_choice_chip_background_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_choice_chip_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_choice_chip_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_error.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_fab_bg_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_fab_icon_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_fab_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_filled_background_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_filled_icon_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_filled_stroke_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_indicator_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_navigation_item_background_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_navigation_item_icon_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_navigation_item_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_on_primary_text_btn_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_outlined_icon_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_outlined_stroke_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_popupmenu_overlay_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_tabs_colored_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_tabs_icon_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_tabs_icon_color_selector_colored.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_tabs_legacy_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_tabs_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_text_btn_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/radiobutton_themeable_attribute_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/selector_bottom_navigation_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/switch_thumb_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/switch_thumb_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/switch_tint_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/test_mtrl_calendar_day.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/test_mtrl_calendar_day_selected.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$ic_thank_you__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$ic_thank_you__1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$ill_anrufen__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$ill_ansteckung__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$ill_bluetooth__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$ill_bluetooth__1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$ill_bluetooth__2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$ill_bluetooth__3.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$ill_bluetooth__4.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$ill_bluetooth__5.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$ill_bluetooth__6.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$ill_bluetooth__7.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$ill_no_message__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$ill_prinzip__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$legacy_ill_bluetooth__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$legacy_ill_bluetooth__1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$legacy_ill_bluetooth__2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$legacy_ill_bluetooth__3.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$legacy_ill_bluetooth__4.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$legacy_ill_bluetooth__5.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$legacy_ill_bluetooth__6.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$legacy_ill_bluetooth__7.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$stats_share_app__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/fingerprint_dialog_error.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/flag_at.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/flag_ch.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/flag_de.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/flag_es.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/flag_it.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/flag_li.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/flag_pt.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_begegnungen.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_ble.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_bluetooth_off.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_bluetooth_restricted.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_call.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_cam_off.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_check.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_check_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_check_filled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_check_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_chevron_down.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_chevron_right.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_close.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_cross.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_delete.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_edit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_error.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_gps_off.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_handshakes.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_header_check.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_header_gps_off.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_hearing_impaired.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_ic_arrow_forward_homescreen.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_ic_bluetooth_disabled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_illu_check_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_illu_checked_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_illu_checkin_ended.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_illu_covidcode.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_illu_tracing_ended.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_illu_veranstaltungen.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_info_border.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_infoline.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_interoperability_update.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_light_off.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_light_on.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_link_internal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_location_pin.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_meldung.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_notification.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_notification_off.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_phone.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_power_saving.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_print.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_qr.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_qr_code.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_qr_small.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_radio_checked.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_radio_unchecked.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_refresh.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_share.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_shield_checkmark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_smartphone.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_stats.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_stopp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_stopwatch.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_symptoms.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_tea.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_thank_you.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_time.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_travel.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_visibility_off.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_warning.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_warning_red.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_warning_round.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_anrufen.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_ansteckung.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_battery_permission.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_bluetooth.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_checkins.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_danke.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_gute_besserung.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_meldung.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_no_message.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_onboarding_gapple.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_outro.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_positiv.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_positiv_getestet.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_prinzip.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_privacy.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_symptome.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_tracing_beenden.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_tracking_active.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ill_verhalten.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/illu_diary.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/illu_events.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/illu_impfung_doc.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/illu_not_thank_you.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/legacy_ill_bluetooth.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/legacy_ill_privacy.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/legend_new_infections_avg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/onb_pikto.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/pdf_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/stats_share_app.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi/fingerprint_dialog_fp_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-watch/abc_dialog_material_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_hide_password__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_hide_password__1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_hide_password__2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_show_password__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_show_password__1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_show_password__2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_action_bar_item_background_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_borderless_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_check_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_check_material_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_colored_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_default_mtrl_shape.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_radio_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_radio_material_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_cab_background_internal_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_cab_background_top_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_control_background_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_dialog_material_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_edit_text_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_ab_back_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_clear_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_go_search_api_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_menu_cut_mtrl_alpha.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_menu_overflow_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_menu_selectall_mtrl_alpha.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_menu_share_mtrl_alpha.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_search_api_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_voice_search_api_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_item_background_holo_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_item_background_holo_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_divider_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_selector_background_transition_holo_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_selector_background_transition_holo_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_selector_holo_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_selector_holo_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_seekbar_thumb_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_seekbar_tick_mark_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_seekbar_track_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_spinner_textfield_background_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_star_black_48dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_star_half_black_48dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_switch_thumb_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_tab_indicator_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_text_cursor_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_textfield_search_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_vector_test.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/avd_hide_password.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/avd_show_password.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_button_blue.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_button_default.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_button_outlined.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_button_outlined_purple.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_button_outlined_red.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_button_purple.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_button_white.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_camera_flash_button.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_chained_edit_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_circle_white.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_edit_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_header_icon_off.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_header_icon_on.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_ripple_white.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_rounded_grey_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_status_bubble.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_status_bubble_stroke_grey.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bg_toolbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_checkbox_checked_mtrl.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_checkbox_unchecked_mtrl.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_radio_off_mtrl.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_radio_off_to_on_mtrl_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_radio_on_mtrl.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_radio_on_to_off_mtrl_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_dark_focused.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_dark_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_disabled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_light_focused.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_light_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_dark_focused.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_dark_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_disabled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_light_focused.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_light_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_bottom_navigation_item_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_fab_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_ic_visibility.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_ic_visibility_off.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_password_eye.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_snackbar_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/dialog_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/dot_default.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/dot_selected.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_arrow_back.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_battery_alert.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_battery_power.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_bluetooth.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_ce_marking.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_clock.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_home.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_info.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_info_black_outlined.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_key.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_launch.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_launch_blue.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_launch_purple.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_lock.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_manufacturer_iso_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_message.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_message_alert.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_mtrl_checked_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_mtrl_chip_checked_black.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_mtrl_chip_checked_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_mtrl_chip_close_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_person.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_radio_button.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_schweiz_wappen.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_snooze.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_sync_failed.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_text_bullet.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_to_bottom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_tracking.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_verified_user.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ill_exposed_banner.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ill_selbst_isolation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ill_symptome_detail.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ill_wichtiger_hinweis.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/legend_entered_covidcodes.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/legend_new_infections.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_calendar_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_clear_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_edit_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_keyboard_arrow_left_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_keyboard_arrow_right_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_menu_arrow_down_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_menu_arrow_up_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_dialog_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_dropdown_arrow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_ic_arrow_drop_down.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_ic_arrow_drop_up.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_ic_cancel.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_ic_error.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_popupmenu_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_popupmenu_background_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_tabs_default_indicator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/navigation_empty_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_action_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_bg_low.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_icon_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_tile_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/outlined_button_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/qr_scanner_bottom_left.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/qr_scanner_bottom_right.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/qr_scanner_top_left.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/qr_scanner_top_right.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/reminder_toggle_background_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/reminder_toggle_stroke_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/reminder_toggle_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ripple_button.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ripple_button_white.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ripple_circular.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ripple_rounded.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/selector_view_pager_dot.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/test_custom_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tooltip_frame_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tooltip_frame_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/triangle_status_exposed.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/triangle_status_infected.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/fast_out_slow_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/mtrl_fast_out_linear_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/mtrl_fast_out_slow_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/mtrl_linear_out_slow_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-land/mtrl_picker_header_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-sw600dp/design_layout_snackbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-sw600dp/mtrl_layout_snackbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v26/abc_screen_toolbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v26/mtrl_calendar_month.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-watch/abc_alert_dialog_button_bar_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-watch/abc_alert_dialog_title_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_bar_title_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_bar_up_container.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_menu_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_menu_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_mode_bar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_mode_close_item_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_activity_chooser_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_activity_chooser_view_list_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_alert_dialog_button_bar_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_alert_dialog_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_alert_dialog_title_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_cascading_menu_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_dialog_title_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_expanded_menu_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_list_menu_item_checkbox.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_list_menu_item_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_list_menu_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_list_menu_item_radio.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_popup_menu_header_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_popup_menu_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_screen_content_include.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_screen_simple.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_screen_simple_overlay_action_mode.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_screen_toolbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_search_dropdown_item_icons_2line.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_search_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_select_dialog_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_tooltip.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/activity_inform.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/activity_main.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/activity_onboarding.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/card_checkin.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/card_contacts.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/card_contacts_history.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/card_enter_covidcode.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/card_generate_qr_code.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/card_infobox.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/card_notifications.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/card_travel.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/card_vaccination.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/card_what_to_do_checkin_report.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/card_what_to_do_leitfaden.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/card_what_to_do_save_yourself.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/card_what_to_do_self_isolation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/card_what_to_do_symptoms.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/card_what_to_do_test.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/custom_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_bottom_navigation_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_bottom_sheet_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_layout_snackbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_layout_snackbar_include.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_layout_tab_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_layout_tab_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_menu_item_action_area.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_item_header.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_item_separator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_item_subheader.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_menu.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_menu_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_text_input_end_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_text_input_start_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_already_checkedin.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_camera_permission_explanation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_error.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_fragment_checkout_conflict.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_fragment_checkout_conflict_resolved.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_fragment_hide_in_diary.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_infoline_hearing_impaired.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_loading.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_reactivate_tracing_reminder.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_reminder_duration.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_simple_dismissable.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_stats_details.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_where_to_do_test.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fingerprint_dialog_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_check_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_check_out_and_edit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_checkin_diary.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_checkin_overview.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_contacts.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_debug.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_events_overview.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_generate_qr_code.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_get_well.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_history.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_home.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_html.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_info_tab.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_inform.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_inform_intro.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_inform_really_not_share.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_not_thank_you.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_onboarding_content.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_onboarding_disclaimer.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_onboarding_finished.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_onboarding_permission_battery.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_onboarding_permission_gaen.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_qr_code.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_qr_code_scanner.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_reports.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_reports_header_no_reports.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_reports_header_positive_tested.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_reports_header_possible_infection.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_reports_overview.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_share_checkins.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_stats.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_tabbar_host.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_thank_you.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_tracing_box.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_tracing_stopped.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_travel.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_update_boarding.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_vaccination_appointment.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_what_to_do_symptoms.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_what_to_do_test.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_checkin_venue_visit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_checkin_venue_visit_current.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_checkin_venue_visits_day_header.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_checkout_conflicting_venue_visit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_error_status.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_events_explanation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_events_footer.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_external_link.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_faq.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_faq_button.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_generate_qr_code.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_history.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_icon_with_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_qr_code.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_report.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_reports_exposure_day.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_selectable_checkin.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_stats_details_section.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_travel_country.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_vaccination_appointment_canton.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/layout_splashboarding.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/layout_stats_active_users.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/layout_stats_covidcodes.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/layout_stats_diagram.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/layout_status.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_dialog_actions.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_dialog_title.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_select_dialog_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_select_dialog_multichoice.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_select_dialog_singlechoice.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_day.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_day_of_week.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_days_of_week.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_horizontal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_month.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_month_labeled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_month_navigation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_months.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_vertical.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_year.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_layout_snackbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_layout_snackbar_include.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_actions.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_fullscreen.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_header_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_header_fullscreen.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_header_selection_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_header_title_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_header_toggle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_text_input_date.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_picker_text_input_date_range.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_action.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_action_tombstone.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_custom_big.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_icon_group.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_part_chronometer.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_part_time.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/number_picker_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/pdf_qr_code.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/select_dialog_item_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/select_dialog_multichoice_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/select_dialog_singlechoice_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/support_simple_spinner_dropdown_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_action_chip.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_chip_zero_corner_radius.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_design_checkbox.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_design_radiobutton.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_reflow_chipgroup.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_toolbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_toolbar_custom_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_toolbar_elevation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_toolbar_surface.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/text_view_with_line_height_from_appearance.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/text_view_with_line_height_from_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/text_view_with_line_height_from_style.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/text_view_with_theme_line_height.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/text_view_without_line_height.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_chained_edit_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_chained_edit_text_more_space.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_country_flag.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_datetime_picker.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_dialog_error_code.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_free_test_info_box.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_header.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_report_details.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_text_bullet.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/menu/menu_bottom_nav_bar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/menu/menu_main.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/mipmap-anydpi-v26/ic_launcher.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/mipmap-anydpi-v26/ic_launcher_round.xml
+- http://schemas.android.com/apk/res/android"
+path : /sources/androidx/core/content/res/ResourcesCompat$ThemeCompat.java
+- http://schemas.android.com/apk/res/android"
+path : /sources/com/google/android/material/chip/Chip.java
+- http://www.be.ch/corona"
+path : /resources/assets/testlocations.json
+- http://www.bouncycastle.org/license.html"
+path : /resources/assets/impressum/bs/licence.html
+- http://www.bouncycastle.org/license.html"
+path : /resources/assets/impressum/de/licence.html
+- http://www.bouncycastle.org/license.html"
+path : /resources/assets/impressum/en/licence.html
+- http://www.bouncycastle.org/license.html"
+path : /resources/assets/impressum/es/licence.html
+- http://www.bouncycastle.org/license.html"
+path : /resources/assets/impressum/fr/licence.html
+- http://www.bouncycastle.org/license.html"
+path : /resources/assets/impressum/hr/licence.html
+- http://www.bouncycastle.org/license.html"
+path : /resources/assets/impressum/it/licence.html
+- http://www.bouncycastle.org/license.html"
+path : /resources/assets/impressum/pt/licence.html
+- http://www.bouncycastle.org/license.html"
+path : /resources/assets/impressum/rm/licence.html
+- http://www.bouncycastle.org/license.html"
+path : /resources/assets/impressum/sq/licence.html
+- http://www.bouncycastle.org/license.html"
+path : /resources/assets/impressum/sr/licence.html
+- http://www.bouncycastle.org/license.html"
+path : /resources/assets/impressum/ti/licence.html
+- http://www.bouncycastle.org/license.html"
+path : /resources/assets/impressum/tr/licence.html
+- http://www.w3.org/2000/svg"
+path : /resources/assets/impressum/img/bundeslogo-bag-dark.svg
+- http://www.w3.org/2000/svg"
+path : /resources/assets/impressum/img/bundeslogo-bag.svg
+- http://www.w3.org/2000/svg"
+path : /resources/assets/impressum/img/ic-arrow-blue.svg
+- http://www.w3.org/2000/svg"
+path : /resources/assets/impressum/img/ic-arrow-dark.svg
+- http://www.w3.org/2000/svg"
+path : /resources/assets/impressum/img/ic-arrow.svg
+- http://www.w3.org/2000/svg"
+path : /resources/assets/impressum/img/ic-call.svg
+- http://www.w3.org/2000/svg"
+path : /resources/assets/impressum/img/ic-link-external.svg
+- http://www.w3.org/2000/svg"
+path : /resources/assets/impressum/img/logo-epfl-dark.svg
+- http://www.w3.org/2000/svg"
+path : /resources/assets/impressum/img/logo-epfl.svg
+- http://www.w3.org/2000/svg"
+path : /resources/assets/impressum/img/logo-ethz-dark.svg
+- http://www.w3.org/2000/svg"
+path : /resources/assets/impressum/img/logo-ethz.svg
+- http://www.w3.org/2000/svg"
+path : /resources/assets/impressum/img/logo-ubique-dark.svg
+- http://www.w3.org/2000/svg"
+path : /resources/assets/impressum/img/logo-ubique.svg
+- https://codegen-service.bag.admin.ch/"
+path : /sources/ch/admin/bag/dp3t/networking/AuthCodeRepository.java
+- https://corona.so.ch/"
+path : /resources/assets/testlocations.json
+- https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Informationen_Coronavirus"
+path : /resources/assets/testlocations.json
+- https://github.com/protocolbuffers/protobuf/blob/master/LICENSE"
+path : /resources/assets/impressum/bs/licence.html
+- https://github.com/protocolbuffers/protobuf/blob/master/LICENSE"
+path : /resources/assets/impressum/de/licence.html
+- https://github.com/protocolbuffers/protobuf/blob/master/LICENSE"
+path : /resources/assets/impressum/en/licence.html
+- https://github.com/protocolbuffers/protobuf/blob/master/LICENSE"
+path : /resources/assets/impressum/es/licence.html
+- https://github.com/protocolbuffers/protobuf/blob/master/LICENSE"
+path : /resources/assets/impressum/fr/licence.html
+- https://github.com/protocolbuffers/protobuf/blob/master/LICENSE"
+path : /resources/assets/impressum/hr/licence.html
+- https://github.com/protocolbuffers/protobuf/blob/master/LICENSE"
+path : /resources/assets/impressum/it/licence.html
+- https://github.com/protocolbuffers/protobuf/blob/master/LICENSE"
+path : /resources/assets/impressum/pt/licence.html
+- https://github.com/protocolbuffers/protobuf/blob/master/LICENSE"
+path : /resources/assets/impressum/rm/licence.html
+- https://github.com/protocolbuffers/protobuf/blob/master/LICENSE"
+path : /resources/assets/impressum/sq/licence.html
+- https://github.com/protocolbuffers/protobuf/blob/master/LICENSE"
+path : /resources/assets/impressum/sr/licence.html
+- https://github.com/protocolbuffers/protobuf/blob/master/LICENSE"
+path : /resources/assets/impressum/ti/licence.html
+- https://github.com/protocolbuffers/protobuf/blob/master/LICENSE"
+path : /resources/assets/impressum/tr/licence.html
+- https://play.google.com/store/apps/details?id=com.google.android.gms"
+path : /sources/ch/admin/bag/dp3t/R$string.java
+- https://plus.google.com/"
+path : /sources/com/google/android/gms/common/internal/zzs.java
+- https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-2954701-DE.html"
+path : /resources/assets/testlocations.json
+- https://tools.ietf.org/html/rfc7518#section-"
+path : /sources/io/jsonwebtoken/SignatureAlgorithm.java
+- https://tools.ietf.org/html/rfc7518#section-3.2 for more information."
+path : /sources/io/jsonwebtoken/SignatureAlgorithm.java
+- https://tools.ietf.org/html/rfc7518#section-3.2 for more information."
+path : /sources/io/jsonwebtoken/security/Keys.java
+- https://tools.ietf.org/html/rfc7518#section-3.4 for more information."
+path : /sources/io/jsonwebtoken/SignatureAlgorithm.java
+- https://undraw.co"
+path : /resources/assets/impressum/bs/licence.html
+- https://undraw.co"
+path : /resources/assets/impressum/de/licence.html
+- https://undraw.co"
+path : /resources/assets/impressum/en/licence.html
+- https://undraw.co"
+path : /resources/assets/impressum/es/licence.html
+- https://undraw.co"
+path : /resources/assets/impressum/fr/licence.html
+- https://undraw.co"
+path : /resources/assets/impressum/hr/licence.html
+- https://undraw.co"
+path : /resources/assets/impressum/it/licence.html
+- https://undraw.co"
+path : /resources/assets/impressum/pt/licence.html
+- https://undraw.co"
+path : /resources/assets/impressum/rm/licence.html
+- https://undraw.co"
+path : /resources/assets/impressum/sq/licence.html
+- https://undraw.co"
+path : /resources/assets/impressum/sr/licence.html
+- https://undraw.co"
+path : /resources/assets/impressum/ti/licence.html
+- https://undraw.co"
+path : /resources/assets/impressum/tr/licence.html
+- https://unsplash.com"
+path : /resources/assets/impressum/bs/licence.html
+- https://unsplash.com"
+path : /resources/assets/impressum/de/licence.html
+- https://unsplash.com"
+path : /resources/assets/impressum/en/licence.html
+- https://unsplash.com"
+path : /resources/assets/impressum/es/licence.html
+- https://unsplash.com"
+path : /resources/assets/impressum/fr/licence.html
+- https://unsplash.com"
+path : /resources/assets/impressum/hr/licence.html
+- https://unsplash.com"
+path : /resources/assets/impressum/it/licence.html
+- https://unsplash.com"
+path : /resources/assets/impressum/pt/licence.html
+- https://unsplash.com"
+path : /resources/assets/impressum/rm/licence.html
+- https://unsplash.com"
+path : /resources/assets/impressum/sq/licence.html
+- https://unsplash.com"
+path : /resources/assets/impressum/sr/licence.html
+- https://unsplash.com"
+path : /resources/assets/impressum/ti/licence.html
+- https://unsplash.com"
+path : /resources/assets/impressum/tr/licence.html
+- https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp"
+path : /resources/assets/testlocations.json
+- https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus"
+path : /resources/assets/testlocations.json
+- https://www.apache.org/licenses/LICENSE-2.0"
+path : /resources/assets/impressum/bs/licence.html
+- https://www.apache.org/licenses/LICENSE-2.0"
+path : /resources/assets/impressum/de/licence.html
+- https://www.apache.org/licenses/LICENSE-2.0"
+path : /resources/assets/impressum/en/licence.html
+- https://www.apache.org/licenses/LICENSE-2.0"
+path : /resources/assets/impressum/es/licence.html
+- https://www.apache.org/licenses/LICENSE-2.0"
+path : /resources/assets/impressum/fr/licence.html
+- https://www.apache.org/licenses/LICENSE-2.0"
+path : /resources/assets/impressum/hr/licence.html
+- https://www.apache.org/licenses/LICENSE-2.0"
+path : /resources/assets/impressum/it/licence.html
+- https://www.apache.org/licenses/LICENSE-2.0"
+path : /resources/assets/impressum/pt/licence.html
+- https://www.apache.org/licenses/LICENSE-2.0"
+path : /resources/assets/impressum/rm/licence.html
+- https://www.apache.org/licenses/LICENSE-2.0"
+path : /resources/assets/impressum/sq/licence.html
+- https://www.apache.org/licenses/LICENSE-2.0"
+path : /resources/assets/impressum/sr/licence.html
+- https://www.apache.org/licenses/LICENSE-2.0"
+path : /resources/assets/impressum/ti/licence.html
+- https://www.apache.org/licenses/LICENSE-2.0"
+path : /resources/assets/impressum/tr/licence.html
+- https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/"
+path : /resources/assets/testlocations.json
+- https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing/datenschutzerklaerung-nutzungsbedingungen.html"
+path : /resources/assets/impressum/bs/impressum.html
+- https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing/datenschutzerklaerung-nutzungsbedingungen.html"
+path : /resources/assets/impressum/de/impressum.html
+- https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing/datenschutzerklaerung-nutzungsbedingungen.html"
+path : /resources/assets/impressum/es/impressum.html
+- https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing/datenschutzerklaerung-nutzungsbedingungen.html"
+path : /resources/assets/impressum/hr/impressum.html
+- https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing/datenschutzerklaerung-nutzungsbedingungen.html"
+path : /resources/assets/impressum/pt/impressum.html
+- https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing/datenschutzerklaerung-nutzungsbedingungen.html"
+path : /resources/assets/impressum/rm/impressum.html
+- https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing/datenschutzerklaerung-nutzungsbedingungen.html"
+path : /resources/assets/impressum/sq/impressum.html
+- https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing/datenschutzerklaerung-nutzungsbedingungen.html"
+path : /resources/assets/impressum/sr/impressum.html
+- https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing/datenschutzerklaerung-nutzungsbedingungen.html"
+path : /resources/assets/impressum/ti/impressum.html
+- https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing/datenschutzerklaerung-nutzungsbedingungen.html"
+path : /resources/assets/impressum/tr/impressum.html
+- https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html"
+path : /sources/ch/admin/bag/dp3t/reports/ReportsFragment.java
+- https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing/datenschutzerklaerung-nutzungsbedingungen.html"
+path : /resources/assets/impressum/en/impressum.html
+- https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing/datenschutzerklaerung-nutzungsbedingungen.html"
+path : /resources/assets/impressum/fr/impressum.html
+- https://www.bag.admin.ch/bag/it/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing/datenschutzerklaerung-nutzungsbedingungen.html"
+path : /resources/assets/impressum/it/impressum.html
+- https://www.bag.admin.ch/swisscovid-app-de"
+path : /resources/assets/impressum/bs/impressum.html
+- https://www.bag.admin.ch/swisscovid-app-de"
+path : /resources/assets/impressum/de/impressum.html
+- https://www.bag.admin.ch/swisscovid-app-de"
+path : /resources/assets/impressum/es/impressum.html
+- https://www.bag.admin.ch/swisscovid-app-de"
+path : /resources/assets/impressum/hr/impressum.html
+- https://www.bag.admin.ch/swisscovid-app-de"
+path : /resources/assets/impressum/pt/impressum.html
+- https://www.bag.admin.ch/swisscovid-app-de"
+path : /resources/assets/impressum/rm/impressum.html
+- https://www.bag.admin.ch/swisscovid-app-de"
+path : /resources/assets/impressum/sq/impressum.html
+- https://www.bag.admin.ch/swisscovid-app-de"
+path : /resources/assets/impressum/sr/impressum.html
+- https://www.bag.admin.ch/swisscovid-app-de"
+path : /resources/assets/impressum/ti/impressum.html
+- https://www.bag.admin.ch/swisscovid-app-de"
+path : /resources/assets/impressum/tr/impressum.html
+- https://www.bag.admin.ch/swisscovid-app-en"
+path : /resources/assets/impressum/en/impressum.html
+- https://www.bag.admin.ch/swisscovid-app-fr"
+path : /resources/assets/impressum/fr/impressum.html
+- https://www.bag.admin.ch/swisscovid-app-it"
+path : /resources/assets/impressum/it/impressum.html
+- https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles"
+path : /resources/assets/testlocations.json
+- https://www.coronavirus.bs.ch/"
+path : /resources/assets/testlocations.json
+- https://www.coronavirus.bs.ch/en.html"
+path : /resources/assets/testlocations.json
+- https://www.epfl.ch"
+path : /resources/assets/impressum/bs/impressum.html
+- https://www.epfl.ch"
+path : /resources/assets/impressum/de/impressum.html
+- https://www.epfl.ch"
+path : /resources/assets/impressum/en/impressum.html
+- https://www.epfl.ch"
+path : /resources/assets/impressum/es/impressum.html
+- https://www.epfl.ch"
+path : /resources/assets/impressum/fr/impressum.html
+- https://www.epfl.ch"
+path : /resources/assets/impressum/hr/impressum.html
+- https://www.epfl.ch"
+path : /resources/assets/impressum/it/impressum.html
+- https://www.epfl.ch"
+path : /resources/assets/impressum/pt/impressum.html
+- https://www.epfl.ch"
+path : /resources/assets/impressum/rm/impressum.html
+- https://www.epfl.ch"
+path : /resources/assets/impressum/sq/impressum.html
+- https://www.epfl.ch"
+path : /resources/assets/impressum/sr/impressum.html
+- https://www.epfl.ch"
+path : /resources/assets/impressum/ti/impressum.html
+- https://www.epfl.ch"
+path : /resources/assets/impressum/tr/impressum.html
+- https://www.ethz.ch/de.html"
+path : /resources/assets/impressum/de/impressum.html
+- https://www.ethz.ch/de.html"
+path : /resources/assets/impressum/rm/impressum.html
+- https://www.ethz.ch/de.html"
+path : /resources/assets/impressum/ti/impressum.html
+- https://www.ethz.ch/de.html"
+path : /resources/assets/impressum/tr/impressum.html
+- https://www.ethz.ch/en.html"
+path : /resources/assets/impressum/bs/impressum.html
+- https://www.ethz.ch/en.html"
+path : /resources/assets/impressum/en/impressum.html
+- https://www.ethz.ch/en.html"
+path : /resources/assets/impressum/es/impressum.html
+- https://www.ethz.ch/en.html"
+path : /resources/assets/impressum/fr/impressum.html
+- https://www.ethz.ch/en.html"
+path : /resources/assets/impressum/hr/impressum.html
+- https://www.ethz.ch/en.html"
+path : /resources/assets/impressum/it/impressum.html
+- https://www.ethz.ch/en.html"
+path : /resources/assets/impressum/pt/impressum.html
+- https://www.ethz.ch/en.html"
+path : /resources/assets/impressum/sq/impressum.html
+- https://www.ethz.ch/en.html"
+path : /resources/assets/impressum/sr/impressum.html
+- https://www.fr.ch/de/gesundheit/covid-19/coronavirus-aktuelle-informationen-alle-news-in-zusammenhang-mit-covid-19-getroffene-massnahmen-faq"
+path : /resources/assets/testlocations.json
+- https://www.fr.ch/sante/covid-19/coronavirus-informations-actuelles-toutes-les-actualites-liees-au-covid-19-mesures-prises-faq-statistiques"
+path : /resources/assets/testlocations.json
+- https://www.ge.ch/covid-19-se-proteger-proteger-autres"
+path : /resources/assets/testlocations.json
+- https://www.ge.ch/en/covid-19-how-protect-yourself-and-others"
+path : /resources/assets/testlocations.json
+- https://www.ge.ch/es/protegerse-si-mismo-los-demas-personas"
+path : /resources/assets/testlocations.json
+- https://www.ge.ch/pt-pt/covid-19-o-essencial-em-detalhe"
+path : /resources/assets/testlocations.json
+- https://www.github.com/DP-3T/"
+path : /resources/assets/impressum/bs/impressum.html
+- https://www.github.com/DP-3T/"
+path : /resources/assets/impressum/de/impressum.html
+- https://www.github.com/DP-3T/"
+path : /resources/assets/impressum/en/impressum.html
+- https://www.github.com/DP-3T/"
+path : /resources/assets/impressum/es/impressum.html
+- https://www.github.com/DP-3T/"
+path : /resources/assets/impressum/fr/impressum.html
+- https://www.github.com/DP-3T/"
+path : /resources/assets/impressum/hr/impressum.html
+- https://www.github.com/DP-3T/"
+path : /resources/assets/impressum/it/impressum.html
+- https://www.github.com/DP-3T/"
+path : /resources/assets/impressum/pt/impressum.html
+- https://www.github.com/DP-3T/"
+path : /resources/assets/impressum/rm/impressum.html
+- https://www.github.com/DP-3T/"
+path : /resources/assets/impressum/sq/impressum.html
+- https://www.github.com/DP-3T/"
+path : /resources/assets/impressum/sr/impressum.html
+- https://www.github.com/DP-3T/"
+path : /resources/assets/impressum/ti/impressum.html
+- https://www.github.com/DP-3T/"
+path : /resources/assets/impressum/tr/impressum.html
+- https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817"
+path : /resources/assets/testlocations.json
+- https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx"
+path : /resources/assets/testlocations.json
+- https://www.gr.ch/IT/istituzioni/amministrazione/djsg/ga/coronavirus/info/Seiten/Start.aspx"
+path : /resources/assets/testlocations.json
+- https://www.gr.ch/RM/instituziuns/administraziun/djsg/ga/coronavirus/info/Seiten/Start.aspx"
+path : /resources/assets/testlocations.json
+- https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html"
+path : /resources/assets/testlocations.json
+- https://www.llv.li/inhalt/118724/amtsstellen/coronavirus"
+path : /resources/assets/testlocations.json
+- https://www.mozilla.org/en-US/MPL/2.0/"
+path : /resources/assets/impressum/bs/licence.html
+- https://www.mozilla.org/en-US/MPL/2.0/"
+path : /resources/assets/impressum/de/licence.html
+- https://www.mozilla.org/en-US/MPL/2.0/"
+path : /resources/assets/impressum/en/licence.html
+- https://www.mozilla.org/en-US/MPL/2.0/"
+path : /resources/assets/impressum/es/licence.html
+- https://www.mozilla.org/en-US/MPL/2.0/"
+path : /resources/assets/impressum/fr/licence.html
+- https://www.mozilla.org/en-US/MPL/2.0/"
+path : /resources/assets/impressum/hr/licence.html
+- https://www.mozilla.org/en-US/MPL/2.0/"
+path : /resources/assets/impressum/it/licence.html
+- https://www.mozilla.org/en-US/MPL/2.0/"
+path : /resources/assets/impressum/pt/licence.html
+- https://www.mozilla.org/en-US/MPL/2.0/"
+path : /resources/assets/impressum/rm/licence.html
+- https://www.mozilla.org/en-US/MPL/2.0/"
+path : /resources/assets/impressum/sq/licence.html
+- https://www.mozilla.org/en-US/MPL/2.0/"
+path : /resources/assets/impressum/sr/licence.html
+- https://www.mozilla.org/en-US/MPL/2.0/"
+path : /resources/assets/impressum/ti/licence.html
+- https://www.mozilla.org/en-US/MPL/2.0/"
+path : /resources/assets/impressum/tr/licence.html
+- https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Coronavirus.aspx"
+path : /resources/assets/testlocations.json
+- https://www.nw.ch/gesundheitsamtdienste/6044"
+path : /resources/assets/testlocations.json
+- https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962"
+path : /resources/assets/testlocations.json
+- https://www.pt.bfs.admin.ch/"
+path : /sources/ch/admin/bag/dp3t/checkin/networking/TraceKeysRepository.java
+- https://www.pt.bfs.admin.ch/"
+path : /sources/ch/admin/bag/dp3t/networking/ConfigRepository.java
+- https://www.pt.bfs.admin.ch/"
+path : /sources/ch/admin/bag/dp3t/networking/StatsRepository.java
+- https://www.pt1.bfs.admin.ch/"
+path : /sources/ch/admin/bag/dp3t/MainApplication.java
+- https://www.pt1.bfs.admin.ch/"
+path : /sources/ch/admin/bag/dp3t/checkin/networking/UserUploadRepository.java
+- https://www.sg.ch/tools/informationen-coronavirus.html"
+path : /resources/assets/testlocations.json
+- https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948"
+path : /resources/assets/testlocations.json
+- https://www.tg.ch/news/fachdossier-coronavirus.html/10552"
+path : /resources/assets/testlocations.json
+- https://www.ubique.ch/?app=dp3t"
+path : /resources/assets/impressum/bs/impressum.html
+- https://www.ubique.ch/?app=dp3t"
+path : /resources/assets/impressum/de/impressum.html
+- https://www.ubique.ch/?app=dp3t"
+path : /resources/assets/impressum/en/impressum.html
+- https://www.ubique.ch/?app=dp3t"
+path : /resources/assets/impressum/es/impressum.html
+- https://www.ubique.ch/?app=dp3t"
+path : /resources/assets/impressum/fr/impressum.html
+- https://www.ubique.ch/?app=dp3t"
+path : /resources/assets/impressum/hr/impressum.html
+- https://www.ubique.ch/?app=dp3t"
+path : /resources/assets/impressum/it/impressum.html
+- https://www.ubique.ch/?app=dp3t"
+path : /resources/assets/impressum/pt/impressum.html
+- https://www.ubique.ch/?app=dp3t"
+path : /resources/assets/impressum/rm/impressum.html
+- https://www.ubique.ch/?app=dp3t"
+path : /resources/assets/impressum/sq/impressum.html
+- https://www.ubique.ch/?app=dp3t"
+path : /resources/assets/impressum/sr/impressum.html
+- https://www.ubique.ch/?app=dp3t"
+path : /resources/assets/impressum/ti/impressum.html
+- https://www.ubique.ch/?app=dp3t"
+path : /resources/assets/impressum/tr/impressum.html
+- https://www.ur.ch/themen/2962"
+path : /resources/assets/testlocations.json
+- https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/"
+path : /resources/assets/testlocations.json
+- https://www.vs.ch/de/web/coronavirus/home"
+path : /resources/assets/testlocations.json
+- https://www.vs.ch/web/coronavirus/"
+path : /resources/assets/testlocations.json
+- https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona"
+path : /resources/assets/testlocations.json
+- https://www.zh.ch/de/gesundheit/coronavirus.html"
+path : /resources/assets/testlocations.json
+- https://www4.ti.ch/dss/dsp/covid19/home/"
+path : /resources/assets/testlocations.json
+- market://details?id=ch.admin.bag.covidcertificate.wallet"
+path : /sources/defpackage/$$LambdaGroup$js$UgAnyKiugq_nEoI4kJBDPq4iTzE.java
+- market://details?id=com.google.android.gms"
+path : /sources/ch/admin/bag/dp3t/R$string.java
+- terms_of_use.html"
+path : /sources/ch/admin/bag/dp3t/R$string.java
+- v1/config"
+path : /sources/ch/admin/bag/dp3t/networking/ConfigService.java
+- v1/statistics"
+path : /sources/ch/admin/bag/dp3t/networking/StatsService.java
+- v2/gaen/exposed"
+path : /sources/org/dpppt/android/sdk/internal/backend/BucketService.java
+- v2/gaen/exposed"
+path : /sources/org/dpppt/android/sdk/internal/backend/ReportService.java
+- v2/onset"
+path : /sources/ch/admin/bag/dp3t/networking/AuthCodeService.java
+- v2/onset/date"
+path : /sources/ch/admin/bag/dp3t/networking/AuthCodeService.java
+- v3/traceKeys"
+path : /sources/ch/admin/bag/dp3t/checkin/networking/TraceKeysService.java
+- v3/userupload"
+path : /sources/ch/admin/bag/dp3t/checkin/networking/UserUploadService.java
+- /proc/self/exe'
+path : /sources/com/sun/jna/Platform.java
+
